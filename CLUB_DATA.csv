@@ -1,0 +1,51 @@
+﻿club_id,club_name,club_address,club_district,open_time,close_time,num_courts,rating_counts,rating_avg,price,popularity_score
+1,Sân Cầu Lông Nguyễn Thị Minh Khai,"Đường Lý Thường Kiệt 225, Phường 01, Quận 7, TP.HCM",Quận 7,05:00,22:00,4,17,3.12,145000,0.9313
+2,Sân Cầu Lông Tân Phú,"Đường Điện Biên Phủ 197, Phường 13, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,05:00,20:00,2,12,2.42,205000,1.4667
+3,Sân Cầu Lông An Dương Vương,"Đường Lê Văn Sỹ 224, Phường 05, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,06:00,21:00,3,14,3.0,200000,0.6237
+4,Sân Cầu Lông Tân Bình,"Đường Nguyễn Trãi 103, Phường 12, Quận 8, TP.HCM",Quận 8,08:00,21:00,3,15,3.13,220000,1.2179
+5,CLB Cầu Lông Ngôi Sao Trẻ,"Đường Pasteur 58, Phường 02, Quận 7, TP.HCM",Quận 7,07:00,23:00,5,24,3.08,215000,0.8652
+6,GreenLeaf Badminton,"Đường Lý Thường Kiệt 2, Phường 10, Quận 7, TP.HCM",Quận 7,05:00,22:00,4,21,2.76,55000,0.5935
+7,CLB Cầu Lông Tân Sơn,"Đường Điện Biên Phủ 221, Phường 15, Quận 1, TP.HCM",Quận 1,05:00,20:00,3,21,3.0,120000,0.8824
+8,Sân Cầu Lông Hòa Bình,"Đường Lý Thường Kiệt 125, Phường 05, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:00,20:00,5,25,2.88,210000,0.7701
+9,CLB Cầu Lông Lý Thường Kiệt,"Đường Hai Bà Trưng 122, Phường 04, Quận Bình Tân, TP.HCM",Quận Bình Tân,06:00,21:00,3,14,3.43,230000,0.8386
+10,Trung Tâm Cầu Lông Lê Lợi,"Đường Nguyễn Thị Minh Khai 91, Phường 11, Quận 11, TP.HCM",Quận 11,08:00,21:00,4,22,2.82,80000,0.8368
+11,CLB Cầu Lông Hải Đăng,"Đường Cộng Hòa 166, Phường 11, Quận Tân Bình, TP.HCM",Quận Tân Bình,08:00,23:00,7,33,3.48,195000,2.0838
+12,Sân Cầu Lông Gò Vấp,"Đường Hoàng Diệu 28, Phường 13, TP Thủ Đức, TP.HCM",TP Thủ Đức,05:00,20:00,2,6,2.0,175000,0.7812
+13,Sân Cầu Lông Quận 7,"Đường Pasteur 47, Phường 03, Quận 11, TP.HCM",Quận 11,06:00,21:00,3,11,2.82,110000,1.3056
+14,Trung Tâm Cầu Lông Sao Mai,"Đường Điện Biên Phủ 221, Phường 08, Quận Bình Tân, TP.HCM",Quận Bình Tân,07:00,23:00,4,20,2.65,125000,0.5441
+15,Victory Badminton Hub,"Đường Trường Chinh 218, Phường 02, Quận Bình Tân, TP.HCM",Quận Bình Tân,05:00,20:00,6,29,2.48,220000,1.4762
+16,Rainbow Badminton Center,"Đường Hai Bà Trưng 222, Phường 08, Quận 7, TP.HCM",Quận 7,06:00,21:00,3,12,3.92,180000,0.8929
+17,CLB Cầu Lông Ánh Dương,"Đường Nguyễn Đình Chiểu 68, Phường 01, Quận 11, TP.HCM",Quận 11,08:00,20:00,5,21,3.29,100000,0.7215
+18,CLB Cầu Lông Thủ Đức,"Đường Hai Bà Trưng 76, Phường 03, Quận 7, TP.HCM",Quận 7,08:00,22:00,6,26,2.96,185000,0.7255
+19,Sky Badminton Club,"Đường Cộng Hòa 15, Phường 12, Quận 10, TP.HCM",Quận 10,06:00,20:00,4,20,2.75,235000,0.8258
+20,Sân Cầu Lông Bình Minh,"Đường Lê Văn Sỹ 21, Phường 01, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,05:00,23:00,2,9,2.67,210000,1.2594
+21,City Light Badminton,"Đường Điện Biên Phủ 61, Phường 11, TP Thủ Đức, TP.HCM",TP Thủ Đức,06:00,20:00,5,22,3.0,240000,1.0714
+22,CLB Cầu Lông Hưng Thịnh,"Đường Lý Thường Kiệt 11, Phường 10, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,08:00,20:00,2,6,2.67,230000,0.6759
+23,CLB Cầu Lông Phú Nhuận,"Đường Hoàng Diệu 53, Phường 15, Quận 8, TP.HCM",Quận 8,05:00,23:00,2,8,2.75,235000,0.5864
+24,Diamond Shuttle Club,"Đường Nguyễn Đình Chiểu 166, Phường 03, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:00,21:00,6,23,3.3,130000,1.7838
+25,TopSpin Badminton,"Đường Điện Biên Phủ 160, Phường 01, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,07:00,23:00,6,19,3.21,150000,0.666
+26,Sân Cầu Lông Võ Văn Kiệt,"Đường Nguyễn Trãi 34, Phường 09, Quận 8, TP.HCM",Quận 8,05:00,20:00,4,20,3.4,220000,0.7359
+27,Sân Cầu Lông Phan Xích Long,"Đường Nguyễn Hữu Cảnh 113, Phường 05, Quận 5, TP.HCM",Quận 5,07:00,20:00,1,4,3.0,125000,0.7519
+28,CLB Cầu Lông Cộng Hòa,"Đường Võ Văn Kiệt 27, Phường 15, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:00,20:00,4,19,2.47,225000,1.4034
+29,CLB Cầu Lông Bình Tân,"Đường Nguyễn Thị Minh Khai 40, Phường 12, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,06:00,22:00,1,5,4.0,85000,1.81
+30,BlueBird Badminton,"Đường Nguyễn Trãi 53, Phường 12, Quận 10, TP.HCM",Quận 10,07:00,22:00,6,26,2.54,240000,1.1441
+31,Urban Smash Courts,"Đường Cộng Hòa 109, Phường 02, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:00,23:00,1,5,3.2,130000,0.8556
+32,Golden Shuttle Arena,"Đường Hoàng Diệu 164, Phường 13, Quận 5, TP.HCM",Quận 5,07:00,20:00,4,24,2.46,50000,1.5871
+33,Sân Cầu Lông Bình Minh,"Đường Nam Kỳ Khởi Nghĩa 29, Phường 09, Quận 1, TP.HCM",Quận 1,07:00,21:00,5,23,3.22,190000,0.6808
+34,ProShot Badminton Club,"Đường Cộng Hòa 150, Phường 14, Quận 10, TP.HCM",Quận 10,05:00,21:00,3,19,2.79,220000,1.2568
+35,CLB Cầu Lông Thiên Long,"Đường Cộng Hòa 231, Phường 05, Quận 10, TP.HCM",Quận 10,06:00,23:00,6,29,3.03,90000,0.7749
+36,Sunrise Badminton Center,"Đường Lý Thường Kiệt 91, Phường 11, Quận 3, TP.HCM",Quận 3,05:00,22:00,5,15,3.6,115000,0.7595
+37,MegaCourt Badminton,"Đường Lê Văn Sỹ 46, Phường 13, Quận Bình Tân, TP.HCM",Quận Bình Tân,08:00,21:00,3,13,3.62,125000,2.3816
+38,Sân Cầu Lông Quận 1,"Đường Hoàng Diệu 206, Phường 13, Quận 11, TP.HCM",Quận 11,08:00,20:00,3,10,2.2,105000,0.9402
+39,Sân Cầu Lông Nam Kỳ Khởi Nghĩa,"Đường Nguyễn Thị Minh Khai 10, Phường 07, TP Thủ Đức, TP.HCM",TP Thủ Đức,06:00,22:00,6,27,2.7,100000,0.6207
+40,Saigon Smash House,"Đường Pasteur 211, Phường 06, Quận 8, TP.HCM",Quận 8,08:00,21:00,2,7,3.57,110000,0.8095
+41,Sân Cầu Lông Hồng Phát,"Đường Nguyễn Trãi 72, Phường 07, Quận 10, TP.HCM",Quận 10,06:00,21:00,8,31,3.16,55000,0.6384
+42,Sân Cầu Lông Quận 1,"Đường Nguyễn Đình Chiểu 138, Phường 11, TP Thủ Đức, TP.HCM",TP Thủ Đức,05:00,22:00,5,23,3.22,160000,0.6505
+43,CLB Cầu Lông Thành Công,"Đường Nguyễn Văn Cừ 247, Phường 03, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,07:00,20:00,3,8,3.0,85000,0.6834
+44,Trung Tâm Cầu Lông Phú Thọ,"Đường Nam Kỳ Khởi Nghĩa 202, Phường 06, Quận Tân Phú, TP.HCM",Quận Tân Phú,07:00,20:00,6,21,3.14,80000,1.1214
+45,Sân Cầu Lông Ngọc Lan,"Đường Nguyễn Thị Minh Khai 49, Phường 07, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,07:00,23:00,3,8,3.0,240000,0.6772
+46,CLB Cầu Lông Sài Gòn Xanh,"Đường Trường Chinh 138, Phường 09, Quận Bình Tân, TP.HCM",Quận Bình Tân,07:00,20:00,3,23,3.52,185000,2.1205
+47,Sân Cầu Lông Văn Thánh,"Đường Điện Biên Phủ 160, Phường 11, Quận 10, TP.HCM",Quận 10,06:00,22:00,5,27,2.7,185000,1.35
+48,CLB Cầu Lông Phú Nhuận,"Đường Võ Văn Kiệt 84, Phường 11, Quận 11, TP.HCM",Quận 11,07:00,20:00,3,15,2.8,145000,1.1864
+49,Sân Cầu Lông Vĩnh Lộc,"Đường Phan Xích Long 171, Phường 04, Quận 11, TP.HCM",Quận 11,08:00,22:00,5,28,2.75,225000,0.7161
+50,Phoenix Court,"Đường Võ Văn Kiệt 214, Phường 07, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,08:00,21:00,6,19,2.47,245000,0.5381

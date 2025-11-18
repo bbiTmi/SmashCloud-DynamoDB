@@ -1,0 +1,501 @@
+﻿user_id,name,age,gender,user_address,preferred_time_slot,total_booking,cancel_booking,avg_booking_freq,cancel_rate,user_district,budget_range
+1,Đỗ Thanh Ngọc,31,nữ,"Đường Lý Thường Kiệt 19, Phường 03, Quận Bình Thạnh, TP.HCM",14:00-16:00,0,0,0.0,0.0,Quận Bình Thạnh,100.000-150.000
+2,Ngô Tuấn My,16,nữ,"Đường Cộng Hòa 82, Phường 05, Quận 1, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 1,150.000-200.000
+3,Dương Ngọc Lan,18,nữ,"Đường Nguyễn Văn Cừ 88, Phường 02, Quận 3, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận 3,50.000-100.000
+4,Hồ Minh Hạnh,57,nữ,"Đường Lê Văn Sỹ 42, Phường 15, Quận 11, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận 11,150.000-200.000
+5,Vũ Quang Phương,31,nam,"Đường Điện Biên Phủ 87, Phường 09, Quận 3, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận 3,100.000-150.000
+6,Đặng Tuấn Ngân,48,nam,"Đường Hai Bà Trưng 111, Phường 12, Quận 1, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 1,50.000-100.000
+7,Nguyễn Thuỳ Sơn,50,nam,"Đường Lê Văn Sỹ 41, Phường 10, Quận 11, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận 11,50.000-100.000
+8,Võ Văn Dương,56,nữ,"Đường Cộng Hòa 53, Phường 02, Quận 10, TP.HCM",06:00-08:00,0,0,0.0,0.0,Quận 10,200.000-250.000
+9,Lý Ngọc Long,16,nữ,"Đường Nguyễn Trãi 142, Phường 07, Quận Tân Phú, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Tân Phú,150.000-200.000
+10,Đỗ Anh Lan,25,nam,"Đường Nguyễn Văn Cừ 77, Phường 11, Quận 8, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 8,100.000-150.000
+11,Võ Thuỳ Hùng,34,nữ,"Đường Lý Thường Kiệt 101, Phường 02, Quận 1, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận 1,100.000-150.000
+12,Phạm Thuỳ Châu,15,nam,"Đường Hai Bà Trưng 93, Phường 03, Quận 1, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 1,150.000-200.000
+13,Đặng Hải Thoa,27,nữ,"Đường Trường Chinh 76, Phường 07, Quận 3, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 3,150.000-200.000
+14,Trần Thanh Quân,51,nam,"Đường Hai Bà Trưng 7, Phường 04, Quận 3, TP.HCM",08:00-10:00,6,0,0.5,0.0,Quận 3,100.000-150.000
+15,Hoàng Thị Ngân,23,nữ,"Đường Nguyễn Trãi 75, Phường 03, Quận Tân Bình, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Tân Bình,100.000-150.000
+16,Bùi Tuấn Thành,59,nam,"Đường Điện Biên Phủ 30, Phường 08, TP Thủ Đức, TP.HCM",06:00-08:00,2,0,0.17,0.0,TP Thủ Đức,150.000-200.000
+17,Huỳnh Anh Hùng,39,nam,"Đường Võ Văn Kiệt 121, Phường 13, Quận 11, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận 11,150.000-200.000
+18,Đỗ Gia Tú,18,nữ,"Đường Hai Bà Trưng 68, Phường 15, Quận Tân Bình, TP.HCM",16:00-18:00,2,1,0.17,0.5,Quận Tân Bình,50.000-100.000
+19,Võ Hữu My,33,nữ,"Đường Điện Biên Phủ 100, Phường 11, Quận Gò Vấp, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Gò Vấp,200.000-250.000
+20,Lý Hải Ngân,24,nữ,"Đường Lê Văn Sỹ 95, Phường 06, Quận 11, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 11,100.000-150.000
+21,Bùi Hải Hiếu,50,nam,"Đường Lê Văn Sỹ 68, Phường 08, Quận 1, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận 1,50.000-100.000
+22,Dương Thị Huy,29,nữ,"Đường Pasteur 58, Phường 08, Quận 8, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 8,150.000-200.000
+23,Vũ Thuỳ Sơn,50,nam,"Đường Nguyễn Văn Cừ 39, Phường 10, Quận 1, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận 1,200.000-250.000
+24,Đỗ Thị Sơn,38,nam,"Đường Nguyễn Thị Minh Khai 89, Phường 02, Quận Tân Bình, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Tân Bình,100.000-150.000
+25,Nguyễn Ngọc Vy,57,nữ,"Đường Nam Kỳ Khởi Nghĩa 59, Phường 13, Quận Phú Nhuận, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Phú Nhuận,200.000-250.000
+26,Phạm Minh Quân,48,nam,"Đường Cộng Hòa 210, Phường 14, Quận 11, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 11,50.000-100.000
+27,Võ Thanh Quyên,35,nam,"Đường Nam Kỳ Khởi Nghĩa 222, Phường 09, Quận Tân Bình, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận Tân Bình,150.000-200.000
+28,Đỗ Thị Long,38,nam,"Đường Hai Bà Trưng 122, Phường 10, Quận 7, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 7,50.000-100.000
+29,Lý Văn Phong,22,nam,"Đường Võ Văn Kiệt 232, Phường 02, Quận 11, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận 11,200.000-250.000
+30,Vũ Thuỳ Giang,58,nữ,"Đường Cộng Hòa 231, Phường 09, Quận Phú Nhuận, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+31,Dương Tuấn Ngọc,60,nam,"Đường Phan Xích Long 115, Phường 02, Quận Bình Tân, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Bình Tân,50.000-100.000
+32,Ngô Thị Hùng,19,nữ,"Đường Lê Văn Sỹ 207, Phường 03, Quận 7, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận 7,150.000-200.000
+33,Trần Văn Ngọc,46,nữ,"Đường Nguyễn Trãi 109, Phường 03, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,150.000-200.000
+34,Lý Thị Hạnh,36,nữ,"Đường Điện Biên Phủ 52, Phường 11, Quận 11, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 11,200.000-250.000
+35,Vũ Gia Hùng,17,nam,"Đường Phan Xích Long 67, Phường 14, Quận Phú Nhuận, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Phú Nhuận,200.000-250.000
+36,Hồ Minh Quân,20,nữ,"Đường Hoàng Diệu 235, Phường 15, Quận Tân Phú, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận Tân Phú,50.000-100.000
+37,Ngô Thanh Huy,41,nam,"Đường Điện Biên Phủ 143, Phường 02, Quận 11, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 11,100.000-150.000
+38,Ngô Thuỳ Hạnh,28,nam,"Đường Nguyễn Đình Chiểu 220, Phường 09, Quận 10, TP.HCM",20:00-22:00,2,0,0.17,0.0,Quận 10,50.000-100.000
+39,Lý Thanh Thành,18,nữ,"Đường Nguyễn Văn Cừ 235, Phường 09, Quận Bình Thạnh, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Bình Thạnh,200.000-250.000
+40,Võ Văn Quân,35,nam,"Đường Trường Chinh 160, Phường 13, Quận Tân Phú, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Tân Phú,50.000-100.000
+41,Phan Minh Thoa,52,nam,"Đường Nam Kỳ Khởi Nghĩa 39, Phường 02, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,150.000-200.000
+42,Vũ Đình Hạnh,53,nữ,"Đường Phan Xích Long 150, Phường 10, Quận Phú Nhuận, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Phú Nhuận,50.000-100.000
+43,Đỗ Gia Phương,52,nam,"Đường Nguyễn Thị Minh Khai 145, Phường 15, Quận 3, TP.HCM",16:00-18:00,4,0,0.33,0.0,Quận 3,150.000-200.000
+44,Trần Quang Nam,39,nam,"Đường Nguyễn Thị Minh Khai 223, Phường 13, Quận 8, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 8,100.000-150.000
+45,Phan Thị Thu,34,nữ,"Đường Nguyễn Hữu Cảnh 68, Phường 15, Quận 11, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 11,150.000-200.000
+46,Lê Thuỳ Linh,15,nam,"Đường Nguyễn Đình Chiểu 147, Phường 11, Quận Bình Thạnh, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Bình Thạnh,100.000-150.000
+47,Nguyễn Văn Phú,54,nữ,"Đường Hai Bà Trưng 71, Phường 01, Quận 5, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 5,100.000-150.000
+48,Vũ Hữu Linh,31,nam,"Đường Nguyễn Đình Chiểu 156, Phường 03, Quận Phú Nhuận, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+49,Lê Hải Linh,42,nữ,"Đường Nguyễn Đình Chiểu 228, Phường 01, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,200.000-250.000
+50,Phan Anh Phú,45,nam,"Đường Hoàng Diệu 13, Phường 12, Quận 7, TP.HCM",08:00-10:00,5,1,0.42,0.2,Quận 7,200.000-250.000
+51,Hoàng Hải An,28,nữ,"Đường Hai Bà Trưng 230, Phường 15, Quận 8, TP.HCM",10:00-12:00,3,1,0.25,0.333,Quận 8,50.000-100.000
+52,Võ Hữu Hùng,36,nam,"Đường Nguyễn Hữu Cảnh 210, Phường 01, Quận 10, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 10,100.000-150.000
+53,Võ Hải Khánh,49,nữ,"Đường Võ Văn Kiệt 216, Phường 05, Quận 8, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 8,200.000-250.000
+54,Phạm Thuỳ Bình,38,nam,"Đường Hai Bà Trưng 176, Phường 14, Quận Tân Phú, TP.HCM",10:00-12:00,4,2,0.33,0.5,Quận Tân Phú,150.000-200.000
+55,Hoàng Văn Phương,41,nam,"Đường Nguyễn Thị Minh Khai 35, Phường 14, Quận 7, TP.HCM",06:00-08:00,2,1,0.17,0.5,Quận 7,200.000-250.000
+56,Vũ Thanh Phong,25,nữ,"Đường Võ Văn Kiệt 199, Phường 12, Quận Bình Thạnh, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận Bình Thạnh,100.000-150.000
+57,Nguyễn Hữu My,57,nam,"Đường Hoàng Diệu 107, Phường 05, Quận Tân Phú, TP.HCM",10:00-12:00,4,0,0.33,0.0,Quận Tân Phú,100.000-150.000
+58,Trần Hữu Thành,51,nam,"Đường Điện Biên Phủ 55, Phường 04, Quận Bình Thạnh, TP.HCM",06:00-08:00,2,1,0.17,0.5,Quận Bình Thạnh,150.000-200.000
+59,Phạm Tuấn Giang,56,nam,"Đường Nam Kỳ Khởi Nghĩa 195, Phường 12, Quận Bình Thạnh, TP.HCM",16:00-18:00,2,2,0.17,1.0,Quận Bình Thạnh,50.000-100.000
+60,Lý Minh Quân,38,nữ,"Đường Nguyễn Hữu Cảnh 132, Phường 14, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,200.000-250.000
+61,Phạm Minh Tú,19,nam,"Đường Lê Văn Sỹ 182, Phường 02, Quận 8, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 8,50.000-100.000
+62,Vũ Thanh Châu,53,nữ,"Đường Nguyễn Đình Chiểu 218, Phường 03, Quận Bình Tân, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Tân,200.000-250.000
+63,Đặng Minh Bình,32,nữ,"Đường Trường Chinh 225, Phường 03, Quận 7, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 7,150.000-200.000
+64,Trần Minh Sơn,29,nam,"Đường Nguyễn Trãi 64, Phường 14, Quận 1, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 1,50.000-100.000
+65,Ngô Thuỳ Hạnh,59,nam,"Đường Cộng Hòa 236, Phường 08, Quận 1, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận 1,200.000-250.000
+66,Lý Tuấn Thoa,18,nam,"Đường Nguyễn Hữu Cảnh 71, Phường 12, Quận 7, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 7,200.000-250.000
+67,Lê Thị Phong,19,nam,"Đường Nguyễn Hữu Cảnh 130, Phường 14, Quận Bình Thạnh, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Thạnh,100.000-150.000
+68,Hoàng Thị Hùng,31,nữ,"Đường Nguyễn Đình Chiểu 175, Phường 11, Quận 3, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 3,100.000-150.000
+69,Võ Thanh Phong,23,nam,"Đường Trường Chinh 126, Phường 04, Quận 10, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 10,200.000-250.000
+70,Hồ Thanh Tùng,38,nữ,"Đường Pasteur 122, Phường 03, TP Thủ Đức, TP.HCM",20:00-22:00,0,0,0.0,0.0,TP Thủ Đức,100.000-150.000
+71,Đặng Minh Tú,59,nữ,"Đường Nguyễn Hữu Cảnh 215, Phường 06, Quận 5, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận 5,200.000-250.000
+72,Ngô Thị Hiếu,54,không muốn tiết lộ,"Đường Nguyễn Văn Cừ 177, Phường 12, TP Thủ Đức, TP.HCM",14:00-16:00,2,1,0.17,0.5,TP Thủ Đức,200.000-250.000
+73,Phan Quang Thoa,23,nam,"Đường Điện Biên Phủ 99, Phường 05, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,100.000-150.000
+74,Vũ Quang Phú,38,nam,"Đường Cộng Hòa 147, Phường 03, TP Thủ Đức, TP.HCM",20:00-22:00,2,0,0.17,0.0,TP Thủ Đức,100.000-150.000
+75,Dương Quang Thành,34,nam,"Đường Nguyễn Trãi 166, Phường 14, Quận 7, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 7,100.000-150.000
+76,Phạm Đình Thiện,37,nam,"Đường Lý Thường Kiệt 69, Phường 11, Quận 7, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 7,50.000-100.000
+77,Bùi Thuỳ My,20,nữ,"Đường Nam Kỳ Khởi Nghĩa 222, Phường 09, Quận 1, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận 1,150.000-200.000
+78,Đỗ Hữu Trang,19,nam,"Đường Trường Chinh 166, Phường 08, Quận 5, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 5,200.000-250.000
+79,Lê Thị Hà,14,nam,"Đường Lê Văn Sỹ 3, Phường 10, Quận Bình Tân, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Bình Tân,150.000-200.000
+80,Lê Quang Hạnh,33,nữ,"Đường Lý Thường Kiệt 207, Phường 05, Quận Phú Nhuận, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+81,Đỗ Hải Hùng,42,nam,"Đường Võ Văn Kiệt 165, Phường 12, Quận Tân Phú, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận Tân Phú,50.000-100.000
+82,Trần Thanh Phú,37,nữ,"Đường Nguyễn Văn Cừ 219, Phường 07, Quận 11, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận 11,200.000-250.000
+83,Phạm Quang Phương,31,nữ,"Đường Nguyễn Hữu Cảnh 56, Phường 08, Quận 8, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận 8,200.000-250.000
+84,Ngô Tuấn Dương,20,nam,"Đường Pasteur 134, Phường 05, Quận Tân Bình, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận Tân Bình,150.000-200.000
+85,Đặng Thanh Ngọc,22,không muốn tiết lộ,"Đường Nguyễn Đình Chiểu 2, Phường 10, Quận 3, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 3,150.000-200.000
+86,Đỗ Thị Tú,19,nam,"Đường Nguyễn Hữu Cảnh 153, Phường 09, Quận Tân Bình, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Tân Bình,100.000-150.000
+87,Phan Hữu Trang,25,nữ,"Đường Võ Văn Kiệt 28, Phường 05, Quận Tân Bình, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận Tân Bình,150.000-200.000
+88,Vũ Thị Phương,41,nam,"Đường Hai Bà Trưng 71, Phường 02, Quận 10, TP.HCM",10:00-12:00,4,0,0.33,0.0,Quận 10,150.000-200.000
+89,Đỗ Thị Nam,42,nữ,"Đường Hoàng Diệu 67, Phường 14, Quận 8, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 8,50.000-100.000
+90,Vũ Hải Thiện,49,nam,"Đường Võ Văn Kiệt 133, Phường 04, Quận 5, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận 5,150.000-200.000
+91,Nguyễn Thanh Nam,49,nữ,"Đường Lý Thường Kiệt 207, Phường 15, Quận 1, TP.HCM",06:00-08:00,3,2,0.25,0.667,Quận 1,100.000-150.000
+92,Nguyễn Hữu Nam,46,nữ,"Đường Nguyễn Đình Chiểu 175, Phường 11, Quận 10, TP.HCM",14:00-16:00,0,0,0.0,0.0,Quận 10,150.000-200.000
+93,Đặng Đình Phương,40,nam,"Đường Phan Xích Long 168, Phường 12, Quận 1, TP.HCM",16:00-18:00,3,1,0.25,0.333,Quận 1,200.000-250.000
+94,Nguyễn Hữu Huy,20,nam,"Đường Hai Bà Trưng 233, Phường 05, Quận 8, TP.HCM",20:00-22:00,2,0,0.17,0.0,Quận 8,100.000-150.000
+95,Hồ Thị Huy,15,nữ,"Đường Nam Kỳ Khởi Nghĩa 189, Phường 07, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,200.000-250.000
+96,Nguyễn Thị Tùng,19,nữ,"Đường Cộng Hòa 147, Phường 10, Quận Tân Phú, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận Tân Phú,50.000-100.000
+97,Phan Quang Thành,36,nam,"Đường Nguyễn Trãi 183, Phường 06, Quận Tân Phú, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận Tân Phú,100.000-150.000
+98,Dương Đình Hương,49,nam,"Đường Lý Thường Kiệt 164, Phường 11, Quận Gò Vấp, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Gò Vấp,100.000-150.000
+99,Đỗ Ngọc Phong,19,nữ,"Đường Hai Bà Trưng 92, Phường 15, Quận Tân Bình, TP.HCM",06:00-08:00,4,0,0.33,0.0,Quận Tân Bình,150.000-200.000
+100,Lê Văn Huy,52,nữ,"Đường Võ Văn Kiệt 216, Phường 14, Quận 5, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 5,100.000-150.000
+101,Huỳnh Hải Dương,52,nam,"Đường Lê Văn Sỹ 121, Phường 05, Quận 3, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 3,50.000-100.000
+102,Lê Ngọc Thoa,34,không muốn tiết lộ,"Đường Phan Xích Long 186, Phường 12, Quận 8, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận 8,50.000-100.000
+103,Ngô Minh Thoa,38,nam,"Đường Lê Văn Sỹ 168, Phường 11, Quận 10, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận 10,50.000-100.000
+104,Ngô Ngọc Linh,14,nam,"Đường Điện Biên Phủ 58, Phường 04, Quận 10, TP.HCM",14:00-16:00,6,1,0.5,0.167,Quận 10,100.000-150.000
+105,Phạm Đình Thiện,32,nam,"Đường Võ Văn Kiệt 228, Phường 07, Quận Bình Tân, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận Bình Tân,100.000-150.000
+106,Phạm Ngọc Trung,40,nam,"Đường Hoàng Diệu 150, Phường 06, Quận 8, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 8,150.000-200.000
+107,Đặng Văn Long,38,nữ,"Đường Võ Văn Kiệt 31, Phường 08, TP Thủ Đức, TP.HCM",14:00-16:00,2,1,0.17,0.5,TP Thủ Đức,50.000-100.000
+108,Hồ Thanh Dương,19,nữ,"Đường Hai Bà Trưng 163, Phường 01, TP Thủ Đức, TP.HCM",14:00-16:00,4,0,0.33,0.0,TP Thủ Đức,150.000-200.000
+109,Nguyễn Anh Ngọc,60,nữ,"Đường Điện Biên Phủ 129, Phường 08, Quận 7, TP.HCM",20:00-22:00,1,0,0.08,0.0,Quận 7,50.000-100.000
+110,Phan Hải Hùng,49,nữ,"Đường Nguyễn Thị Minh Khai 98, Phường 14, Quận Tân Bình, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Tân Bình,150.000-200.000
+111,Võ Ngọc Phong,29,nữ,"Đường Võ Văn Kiệt 223, Phường 07, Quận 1, TP.HCM",16:00-18:00,1,1,0.08,1.0,Quận 1,200.000-250.000
+112,Phạm Văn Trung,50,nữ,"Đường Phan Xích Long 88, Phường 03, Quận 7, TP.HCM",20:00-22:00,1,0,0.08,0.0,Quận 7,200.000-250.000
+113,Ngô Hữu Hùng,47,nữ,"Đường Nam Kỳ Khởi Nghĩa 37, Phường 10, Quận Bình Thạnh, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận Bình Thạnh,50.000-100.000
+114,Hồ Gia Long,24,nam,"Đường Hoàng Diệu 47, Phường 14, Quận Tân Phú, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Tân Phú,150.000-200.000
+115,Đỗ Thị Sơn,57,nữ,"Đường Điện Biên Phủ 162, Phường 08, Quận 10, TP.HCM",08:00-10:00,3,1,0.25,0.333,Quận 10,100.000-150.000
+116,Trần Quang Bình,38,nữ,"Đường Lê Văn Sỹ 15, Phường 06, Quận Tân Bình, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận Tân Bình,100.000-150.000
+117,Dương Thị Phong,24,nữ,"Đường Trường Chinh 54, Phường 08, Quận 8, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 8,100.000-150.000
+118,Ngô Thanh Sơn,22,nam,"Đường Lê Văn Sỹ 41, Phường 10, Quận Bình Tân, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận Bình Tân,150.000-200.000
+119,Ngô Ngọc Hiếu,31,nam,"Đường Hai Bà Trưng 200, Phường 13, Quận Bình Tân, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận Bình Tân,200.000-250.000
+120,Hồ Văn Phong,33,nữ,"Đường Điện Biên Phủ 112, Phường 03, Quận Phú Nhuận, TP.HCM",10:00-12:00,1,1,0.08,1.0,Quận Phú Nhuận,100.000-150.000
+121,Huỳnh Hải Thu,31,nữ,"Đường Nam Kỳ Khởi Nghĩa 248, Phường 07, Quận 11, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 11,50.000-100.000
+122,Đỗ Thị Thiện,45,nữ,"Đường Hai Bà Trưng 10, Phường 07, Quận 1, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 1,200.000-250.000
+123,Phạm Anh Thiện,23,nam,"Đường Nguyễn Trãi 244, Phường 12, Quận 10, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 10,50.000-100.000
+124,Hồ Gia Hà,18,nữ,"Đường Trường Chinh 194, Phường 15, Quận 10, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận 10,150.000-200.000
+125,Hồ Ngọc Phú,24,nữ,"Đường Nguyễn Trãi 2, Phường 01, Quận Tân Bình, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận Tân Bình,100.000-150.000
+126,Vũ Đình Hương,41,nữ,"Đường Lý Thường Kiệt 225, Phường 04, Quận Tân Phú, TP.HCM",08:00-10:00,4,0,0.33,0.0,Quận Tân Phú,50.000-100.000
+127,Lê Gia Hiếu,31,không muốn tiết lộ,"Đường Nguyễn Hữu Cảnh 27, Phường 05, Quận 5, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 5,150.000-200.000
+128,Phan Hải Phương,40,không muốn tiết lộ,"Đường Nguyễn Đình Chiểu 79, Phường 09, Quận Phú Nhuận, TP.HCM",06:00-08:00,1,1,0.08,1.0,Quận Phú Nhuận,100.000-150.000
+129,Đỗ Tuấn Huy,33,nữ,"Đường Lê Văn Sỹ 12, Phường 02, TP Thủ Đức, TP.HCM",08:00-10:00,0,0,0.0,0.0,TP Thủ Đức,150.000-200.000
+130,Vũ Thị Huy,44,nam,"Đường Võ Văn Kiệt 187, Phường 05, Quận Bình Thạnh, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận Bình Thạnh,50.000-100.000
+131,Võ Anh Khánh,18,nữ,"Đường Hoàng Diệu 35, Phường 07, Quận Tân Bình, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Tân Bình,200.000-250.000
+132,Hoàng Hải Giang,37,nữ,"Đường Hoàng Diệu 92, Phường 15, Quận Bình Thạnh, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận Bình Thạnh,50.000-100.000
+133,Huỳnh Hải Trung,30,nam,"Đường Nguyễn Trãi 104, Phường 03, Quận Bình Tân, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận Bình Tân,50.000-100.000
+134,Dương Hải Thoa,29,nữ,"Đường Trường Chinh 187, Phường 04, Quận 7, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 7,200.000-250.000
+135,Bùi Thuỳ Phong,60,nữ,"Đường Phan Xích Long 6, Phường 04, Quận Tân Phú, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận Tân Phú,150.000-200.000
+136,Hoàng Minh Giang,54,nữ,"Đường Lê Văn Sỹ 183, Phường 02, Quận 10, TP.HCM",18:00-20:00,1,0,0.08,0.0,Quận 10,150.000-200.000
+137,Lý Minh Ngọc,45,nữ,"Đường Cộng Hòa 66, Phường 07, Quận Tân Bình, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Tân Bình,50.000-100.000
+138,Võ Thanh Dương,52,nam,"Đường Cộng Hòa 170, Phường 10, Quận 1, TP.HCM",16:00-18:00,2,2,0.17,1.0,Quận 1,50.000-100.000
+139,Đỗ Gia Giang,53,nam,"Đường Nguyễn Thị Minh Khai 6, Phường 11, TP Thủ Đức, TP.HCM",10:00-12:00,0,0,0.0,0.0,TP Thủ Đức,150.000-200.000
+140,Đặng Minh Thoa,26,nam,"Đường Cộng Hòa 107, Phường 12, Quận 3, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận 3,200.000-250.000
+141,Trần Văn Quân,43,nam,"Đường Pasteur 141, Phường 07, Quận 3, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận 3,100.000-150.000
+142,Đặng Thị Hà,20,nam,"Đường Nguyễn Văn Cừ 40, Phường 08, Quận Tân Phú, TP.HCM",08:00-10:00,5,1,0.42,0.2,Quận Tân Phú,200.000-250.000
+143,Hồ Minh Châu,22,nữ,"Đường Nguyễn Trãi 162, Phường 12, Quận Tân Bình, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Tân Bình,50.000-100.000
+144,Dương Hải Lan,33,nữ,"Đường Trường Chinh 170, Phường 05, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,150.000-200.000
+145,Bùi Thanh Trang,14,nữ,"Đường Nguyễn Thị Minh Khai 70, Phường 11, Quận Gò Vấp, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Gò Vấp,200.000-250.000
+146,Hoàng Văn Thoa,39,nữ,"Đường Phan Xích Long 231, Phường 07, TP Thủ Đức, TP.HCM",08:00-10:00,3,0,0.25,0.0,TP Thủ Đức,50.000-100.000
+147,Phạm Hải Phú,35,nam,"Đường Nguyễn Thị Minh Khai 159, Phường 09, Quận Tân Phú, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Tân Phú,100.000-150.000
+148,Lê Gia Khánh,53,nữ,"Đường Nguyễn Thị Minh Khai 201, Phường 05, Quận 3, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 3,100.000-150.000
+149,Trần Anh Thoa,38,nam,"Đường Nguyễn Thị Minh Khai 156, Phường 08, Quận 7, TP.HCM",08:00-10:00,4,1,0.33,0.25,Quận 7,200.000-250.000
+150,Dương Gia Tùng,35,nữ,"Đường Nguyễn Trãi 213, Phường 13, Quận 8, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận 8,50.000-100.000
+151,Huỳnh Đình Quân,42,nữ,"Đường Nguyễn Trãi 105, Phường 06, Quận Tân Phú, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận Tân Phú,50.000-100.000
+152,Đặng Quang Thành,35,nam,"Đường Võ Văn Kiệt 141, Phường 03, Quận 1, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 1,100.000-150.000
+153,Bùi Thuỳ Dương,41,nam,"Đường Hai Bà Trưng 177, Phường 15, Quận 7, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 7,150.000-200.000
+154,Bùi Thị Phú,55,nữ,"Đường Hai Bà Trưng 1, Phường 06, Quận 7, TP.HCM",08:00-10:00,3,2,0.25,0.667,Quận 7,150.000-200.000
+155,Phạm Gia Quyên,52,nam,"Đường Trường Chinh 233, Phường 11, Quận 3, TP.HCM",10:00-12:00,4,2,0.33,0.5,Quận 3,200.000-250.000
+156,Đặng Ngọc Huy,22,nữ,"Đường Nguyễn Thị Minh Khai 172, Phường 14, Quận Phú Nhuận, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Phú Nhuận,200.000-250.000
+157,Bùi Thị Huy,33,nữ,"Đường Hai Bà Trưng 200, Phường 03, Quận 3, TP.HCM",16:00-18:00,3,1,0.25,0.333,Quận 3,100.000-150.000
+158,Đỗ Ngọc Sơn,34,nam,"Đường Điện Biên Phủ 26, Phường 12, Quận Tân Phú, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Tân Phú,50.000-100.000
+159,Hoàng Thanh Hà,52,nữ,"Đường Nguyễn Văn Cừ 117, Phường 11, Quận 7, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 7,150.000-200.000
+160,Đặng Gia Quyên,58,nữ,"Đường Võ Văn Kiệt 13, Phường 05, Quận Bình Thạnh, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Bình Thạnh,150.000-200.000
+161,Bùi Hữu Tùng,26,nữ,"Đường Nguyễn Thị Minh Khai 224, Phường 14, Quận 5, TP.HCM",10:00-12:00,3,1,0.25,0.333,Quận 5,150.000-200.000
+162,Lê Thuỳ Thiện,44,nam,"Đường Cộng Hòa 93, Phường 14, Quận 8, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 8,150.000-200.000
+163,Đỗ Văn Quân,34,nữ,"Đường Hoàng Diệu 30, Phường 07, Quận Tân Phú, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Tân Phú,100.000-150.000
+164,Đặng Hữu Linh,25,nữ,"Đường Nguyễn Thị Minh Khai 228, Phường 14, Quận Bình Tân, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận Bình Tân,150.000-200.000
+165,Bùi Hải Trung,39,nữ,"Đường Cộng Hòa 36, Phường 01, TP Thủ Đức, TP.HCM",10:00-12:00,1,0,0.08,0.0,TP Thủ Đức,50.000-100.000
+166,Phan Anh Hùng,34,nam,"Đường Lê Văn Sỹ 229, Phường 06, Quận 10, TP.HCM",08:00-10:00,3,1,0.25,0.333,Quận 10,150.000-200.000
+167,Hoàng Thị Ngân,32,nam,"Đường Pasteur 225, Phường 10, Quận 8, TP.HCM",16:00-18:00,2,2,0.17,1.0,Quận 8,200.000-250.000
+168,Phạm Gia Vy,58,nam,"Đường Điện Biên Phủ 88, Phường 06, TP Thủ Đức, TP.HCM",10:00-12:00,3,0,0.25,0.0,TP Thủ Đức,50.000-100.000
+169,Trần Thuỳ Phú,54,nam,"Đường Lê Văn Sỹ 103, Phường 02, Quận 11, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 11,150.000-200.000
+170,Hoàng Thanh Quyên,45,nữ,"Đường Pasteur 99, Phường 05, TP Thủ Đức, TP.HCM",14:00-16:00,2,1,0.17,0.5,TP Thủ Đức,100.000-150.000
+171,Hoàng Hữu Khánh,50,nam,"Đường Hai Bà Trưng 167, Phường 13, Quận 11, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 11,100.000-150.000
+172,Huỳnh Tuấn Thoa,29,nữ,"Đường Lê Văn Sỹ 179, Phường 02, Quận 5, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 5,150.000-200.000
+173,Trần Quang Quân,34,nữ,"Đường Cộng Hòa 27, Phường 14, Quận 5, TP.HCM",10:00-12:00,1,1,0.08,1.0,Quận 5,200.000-250.000
+174,Vũ Minh Ngân,38,nam,"Đường Nam Kỳ Khởi Nghĩa 124, Phường 15, Quận Phú Nhuận, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận Phú Nhuận,100.000-150.000
+175,Dương Anh Vy,31,nữ,"Đường Pasteur 98, Phường 03, Quận Phú Nhuận, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận Phú Nhuận,50.000-100.000
+176,Vũ Ngọc Trang,39,nữ,"Đường Nguyễn Hữu Cảnh 221, Phường 10, Quận 1, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận 1,200.000-250.000
+177,Phan Đình Thoa,37,nam,"Đường Phan Xích Long 29, Phường 08, Quận Bình Thạnh, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Bình Thạnh,100.000-150.000
+178,Dương Hải Ngân,21,nữ,"Đường Nam Kỳ Khởi Nghĩa 17, Phường 08, Quận 1, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 1,200.000-250.000
+179,Hồ Gia Tùng,50,nữ,"Đường Nguyễn Văn Cừ 4, Phường 11, Quận 10, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 10,100.000-150.000
+180,Ngô Hữu Lan,26,nữ,"Đường Lý Thường Kiệt 87, Phường 11, TP Thủ Đức, TP.HCM",10:00-12:00,4,1,0.33,0.25,TP Thủ Đức,100.000-150.000
+181,Hoàng Ngọc Dương,51,nữ,"Đường Nguyễn Thị Minh Khai 187, Phường 07, Quận Tân Bình, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Tân Bình,200.000-250.000
+182,Lý Đình Hạnh,48,nam,"Đường Lý Thường Kiệt 170, Phường 08, Quận 10, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 10,150.000-200.000
+183,Phạm Ngọc Hà,25,nam,"Đường Nguyễn Đình Chiểu 212, Phường 03, TP Thủ Đức, TP.HCM",10:00-12:00,2,0,0.17,0.0,TP Thủ Đức,150.000-200.000
+184,Huỳnh Ngọc Thoa,57,nữ,"Đường Cộng Hòa 240, Phường 01, Quận Tân Bình, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Tân Bình,200.000-250.000
+185,Hoàng Quang Hà,49,nam,"Đường Lê Văn Sỹ 121, Phường 09, TP Thủ Đức, TP.HCM",08:00-10:00,1,0,0.08,0.0,TP Thủ Đức,100.000-150.000
+186,Vũ Minh Phương,15,nữ,"Đường Hai Bà Trưng 20, Phường 14, Quận 5, TP.HCM",08:00-10:00,4,0,0.33,0.0,Quận 5,100.000-150.000
+187,Nguyễn Quang Dương,60,nữ,"Đường Hai Bà Trưng 85, Phường 06, Quận 7, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 7,100.000-150.000
+188,Hồ Gia Quân,43,nam,"Đường Nguyễn Văn Cừ 58, Phường 01, Quận Gò Vấp, TP.HCM",16:00-18:00,1,1,0.08,1.0,Quận Gò Vấp,100.000-150.000
+189,Vũ Quang Hà,59,nữ,"Đường Nguyễn Đình Chiểu 61, Phường 07, TP Thủ Đức, TP.HCM",08:00-10:00,0,0,0.0,0.0,TP Thủ Đức,100.000-150.000
+190,Đỗ Anh Bình,27,nam,"Đường Điện Biên Phủ 206, Phường 08, Quận Bình Thạnh, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận Bình Thạnh,150.000-200.000
+191,Bùi Thị Phú,42,nam,"Đường Pasteur 128, Phường 02, TP Thủ Đức, TP.HCM",06:00-08:00,0,0,0.0,0.0,TP Thủ Đức,100.000-150.000
+192,Hoàng Hữu Châu,32,nữ,"Đường Pasteur 128, Phường 06, Quận 3, TP.HCM",14:00-16:00,4,2,0.33,0.5,Quận 3,200.000-250.000
+193,Đặng Minh Hùng,58,nữ,"Đường Trường Chinh 106, Phường 02, Quận 11, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận 11,100.000-150.000
+194,Lý Minh An,18,nam,"Đường Cộng Hòa 1, Phường 09, Quận Gò Vấp, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận Gò Vấp,100.000-150.000
+195,Lê Văn My,40,nam,"Đường Điện Biên Phủ 247, Phường 13, Quận Phú Nhuận, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận Phú Nhuận,150.000-200.000
+196,Phan Hữu Tùng,57,nam,"Đường Võ Văn Kiệt 144, Phường 15, Quận Gò Vấp, TP.HCM",18:00-20:00,4,1,0.33,0.25,Quận Gò Vấp,50.000-100.000
+197,Ngô Thị Ngân,45,nữ,"Đường Nguyễn Trãi 117, Phường 11, Quận Tân Bình, TP.HCM",18:00-20:00,1,1,0.08,1.0,Quận Tân Bình,50.000-100.000
+198,Vũ Ngọc Hiếu,22,nữ,"Đường Hoàng Diệu 14, Phường 06, TP Thủ Đức, TP.HCM",08:00-10:00,2,1,0.17,0.5,TP Thủ Đức,100.000-150.000
+199,Trần Anh Thành,54,nam,"Đường Lý Thường Kiệt 85, Phường 14, Quận Bình Thạnh, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Bình Thạnh,150.000-200.000
+200,Dương Thị Hiếu,33,nam,"Đường Hai Bà Trưng 94, Phường 12, Quận Tân Bình, TP.HCM",14:00-16:00,1,1,0.08,1.0,Quận Tân Bình,100.000-150.000
+201,Lý Thanh Vy,29,nam,"Đường Pasteur 195, Phường 02, Quận 3, TP.HCM",16:00-18:00,3,1,0.25,0.333,Quận 3,50.000-100.000
+202,Nguyễn Thuỳ Tú,30,nữ,"Đường Lý Thường Kiệt 91, Phường 01, Quận 10, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận 10,150.000-200.000
+203,Vũ Tuấn Huy,56,nữ,"Đường Võ Văn Kiệt 96, Phường 09, Quận Gò Vấp, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Gò Vấp,200.000-250.000
+204,Đặng Quang An,23,nam,"Đường Nguyễn Thị Minh Khai 127, Phường 01, Quận 5, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 5,200.000-250.000
+205,Đỗ Anh Thành,59,nữ,"Đường Phan Xích Long 191, Phường 14, Quận Tân Phú, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận Tân Phú,150.000-200.000
+206,Huỳnh Thuỳ Hà,41,nam,"Đường Nam Kỳ Khởi Nghĩa 157, Phường 02, Quận 8, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận 8,200.000-250.000
+207,Đỗ Thị Tùng,38,nữ,"Đường Nguyễn Trãi 239, Phường 04, Quận 3, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận 3,150.000-200.000
+208,Nguyễn Quang Trang,18,nam,"Đường Nguyễn Đình Chiểu 212, Phường 04, Quận Bình Thạnh, TP.HCM",06:00-08:00,0,0,0.0,0.0,Quận Bình Thạnh,100.000-150.000
+209,Trần Thuỳ Quyên,42,nam,"Đường Nguyễn Trãi 28, Phường 12, Quận 10, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận 10,100.000-150.000
+210,Đỗ Ngọc Bình,52,nam,"Đường Nam Kỳ Khởi Nghĩa 215, Phường 01, Quận Tân Bình, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Tân Bình,50.000-100.000
+211,Đỗ Hải Giang,44,nam,"Đường Nguyễn Thị Minh Khai 118, Phường 13, Quận Bình Thạnh, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận Bình Thạnh,100.000-150.000
+212,Đỗ Anh Hạnh,51,nữ,"Đường Phan Xích Long 136, Phường 08, Quận 1, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 1,100.000-150.000
+213,Bùi Hữu Châu,39,nữ,"Đường Cộng Hòa 215, Phường 09, Quận 11, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 11,50.000-100.000
+214,Đỗ Gia Phú,48,nữ,"Đường Hai Bà Trưng 200, Phường 15, Quận Gò Vấp, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Gò Vấp,150.000-200.000
+215,Huỳnh Hải Thu,46,nữ,"Đường Lê Văn Sỹ 45, Phường 12, Quận Phú Nhuận, TP.HCM",08:00-10:00,5,0,0.42,0.0,Quận Phú Nhuận,100.000-150.000
+216,Lý Thuỳ Khánh,58,nữ,"Đường Phan Xích Long 169, Phường 02, Quận 11, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận 11,100.000-150.000
+217,Hoàng Thị Thu,40,nam,"Đường Hoàng Diệu 108, Phường 09, Quận 11, TP.HCM",20:00-22:00,3,1,0.25,0.333,Quận 11,100.000-150.000
+218,Trần Ngọc Lan,48,nam,"Đường Lý Thường Kiệt 247, Phường 05, Quận 11, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 11,50.000-100.000
+219,Trần Hải Lan,16,nam,"Đường Hoàng Diệu 207, Phường 05, Quận Bình Thạnh, TP.HCM",06:00-08:00,5,1,0.42,0.2,Quận Bình Thạnh,150.000-200.000
+220,Trần Đình Ngọc,37,nữ,"Đường Phan Xích Long 155, Phường 03, Quận 11, TP.HCM",08:00-10:00,4,1,0.33,0.25,Quận 11,50.000-100.000
+221,Hồ Gia Trang,58,nam,"Đường Võ Văn Kiệt 141, Phường 14, Quận Tân Phú, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận Tân Phú,200.000-250.000
+222,Võ Văn Lan,48,nam,"Đường Hoàng Diệu 240, Phường 12, Quận Tân Phú, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Tân Phú,100.000-150.000
+223,Đặng Đình Dương,52,nam,"Đường Nguyễn Trãi 160, Phường 04, Quận 7, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 7,200.000-250.000
+224,Bùi Ngọc Hiếu,54,nữ,"Đường Võ Văn Kiệt 236, Phường 11, Quận 10, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 10,150.000-200.000
+225,Đỗ Quang Sơn,19,nữ,"Đường Phan Xích Long 250, Phường 12, Quận Tân Bình, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Tân Bình,100.000-150.000
+226,Dương Quang Phú,20,nam,"Đường Lê Văn Sỹ 178, Phường 09, Quận Gò Vấp, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Gò Vấp,200.000-250.000
+227,Huỳnh Minh Trung,29,nữ,"Đường Hoàng Diệu 195, Phường 12, Quận 3, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 3,200.000-250.000
+228,Đỗ Hải Tùng,56,không muốn tiết lộ,"Đường Nguyễn Hữu Cảnh 150, Phường 09, Quận Bình Thạnh, TP.HCM",06:00-08:00,2,1,0.17,0.5,Quận Bình Thạnh,200.000-250.000
+229,Võ Hải Hà,56,nữ,"Đường Nam Kỳ Khởi Nghĩa 229, Phường 11, Quận Tân Phú, TP.HCM",10:00-12:00,4,1,0.33,0.25,Quận Tân Phú,100.000-150.000
+230,Ngô Thị Thiện,36,nam,"Đường Võ Văn Kiệt 109, Phường 15, TP Thủ Đức, TP.HCM",10:00-12:00,1,0,0.08,0.0,TP Thủ Đức,100.000-150.000
+231,Huỳnh Gia Ngân,24,nam,"Đường Trường Chinh 7, Phường 09, Quận 3, TP.HCM",18:00-20:00,1,1,0.08,1.0,Quận 3,100.000-150.000
+232,Bùi Thị Hà,55,nam,"Đường Nguyễn Đình Chiểu 172, Phường 03, Quận 1, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 1,100.000-150.000
+233,Bùi Thuỳ Ngân,53,nữ,"Đường Cộng Hòa 193, Phường 04, Quận 8, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 8,50.000-100.000
+234,Đặng Minh Thiện,16,nam,"Đường Lê Văn Sỹ 65, Phường 05, Quận Tân Bình, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Tân Bình,200.000-250.000
+235,Huỳnh Tuấn Thoa,50,nữ,"Đường Phan Xích Long 177, Phường 14, Quận 1, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 1,50.000-100.000
+236,Đỗ Minh Châu,55,nam,"Đường Võ Văn Kiệt 139, Phường 04, Quận Bình Tân, TP.HCM",08:00-10:00,5,1,0.42,0.2,Quận Bình Tân,150.000-200.000
+237,Đỗ Thanh Thiện,57,nam,"Đường Cộng Hòa 116, Phường 06, TP Thủ Đức, TP.HCM",14:00-16:00,1,0,0.08,0.0,TP Thủ Đức,200.000-250.000
+238,Võ Thuỳ Dương,55,nữ,"Đường Nguyễn Thị Minh Khai 173, Phường 10, TP Thủ Đức, TP.HCM",10:00-12:00,2,1,0.17,0.5,TP Thủ Đức,100.000-150.000
+239,Lê Thuỳ Sơn,39,nam,"Đường Lý Thường Kiệt 144, Phường 12, Quận Tân Bình, TP.HCM",18:00-20:00,1,1,0.08,1.0,Quận Tân Bình,100.000-150.000
+240,Đỗ Gia Hương,35,nữ,"Đường Nguyễn Đình Chiểu 201, Phường 04, Quận Gò Vấp, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận Gò Vấp,100.000-150.000
+241,Nguyễn Hữu Thoa,41,nam,"Đường Võ Văn Kiệt 13, Phường 12, Quận Tân Bình, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Tân Bình,50.000-100.000
+242,Trần Hữu Giang,20,nữ,"Đường Nguyễn Đình Chiểu 245, Phường 07, Quận 11, TP.HCM",08:00-10:00,4,1,0.33,0.25,Quận 11,100.000-150.000
+243,Vũ Hải Quân,14,nữ,"Đường Hoàng Diệu 4, Phường 09, Quận 1, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 1,200.000-250.000
+244,Đỗ Quang Châu,20,nữ,"Đường Nguyễn Văn Cừ 223, Phường 04, Quận Phú Nhuận, TP.HCM",14:00-16:00,6,0,0.5,0.0,Quận Phú Nhuận,200.000-250.000
+245,Hoàng Thuỳ Thoa,30,nam,"Đường Pasteur 234, Phường 14, Quận 7, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 7,150.000-200.000
+246,Đỗ Đình Thoa,28,nữ,"Đường Nguyễn Hữu Cảnh 140, Phường 13, Quận Phú Nhuận, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận Phú Nhuận,200.000-250.000
+247,Lê Thanh Hùng,46,nữ,"Đường Nguyễn Trãi 247, Phường 13, Quận Tân Phú, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Tân Phú,100.000-150.000
+248,Đỗ Quang Phong,47,nam,"Đường Nguyễn Trãi 46, Phường 05, Quận Bình Thạnh, TP.HCM",20:00-22:00,1,0,0.08,0.0,Quận Bình Thạnh,200.000-250.000
+249,Võ Anh Hiếu,49,nam,"Đường Điện Biên Phủ 189, Phường 03, Quận 5, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 5,200.000-250.000
+250,Nguyễn Tuấn Khánh,51,nam,"Đường Nguyễn Thị Minh Khai 110, Phường 07, Quận 1, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 1,50.000-100.000
+251,Lý Gia Quyên,58,nam,"Đường Nguyễn Văn Cừ 34, Phường 09, Quận 8, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 8,200.000-250.000
+252,Phạm Ngọc My,50,nam,"Đường Lê Văn Sỹ 66, Phường 10, TP Thủ Đức, TP.HCM",14:00-16:00,2,1,0.17,0.5,TP Thủ Đức,150.000-200.000
+253,Dương Anh Ngân,28,nữ,"Đường Trường Chinh 182, Phường 06, Quận Bình Thạnh, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Thạnh,200.000-250.000
+254,Lý Anh Hiếu,42,nữ,"Đường Phan Xích Long 238, Phường 01, Quận 5, TP.HCM",20:00-22:00,3,1,0.25,0.333,Quận 5,50.000-100.000
+255,Hoàng Thị Thoa,37,nữ,"Đường Hoàng Diệu 199, Phường 10, Quận 1, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 1,50.000-100.000
+256,Huỳnh Tuấn Thoa,39,nam,"Đường Võ Văn Kiệt 147, Phường 08, Quận Bình Tân, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận Bình Tân,200.000-250.000
+257,Lê Hải Phong,43,nữ,"Đường Nguyễn Hữu Cảnh 182, Phường 02, Quận Bình Tân, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận Bình Tân,200.000-250.000
+258,Đỗ Tuấn Giang,57,nữ,"Đường Hoàng Diệu 245, Phường 09, Quận 7, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 7,50.000-100.000
+259,Đặng Ngọc Hương,51,nữ,"Đường Lê Văn Sỹ 202, Phường 09, Quận 3, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 3,100.000-150.000
+260,Huỳnh Hải Quân,58,nam,"Đường Lê Văn Sỹ 138, Phường 07, Quận Gò Vấp, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Gò Vấp,200.000-250.000
+261,Vũ Thị Lan,46,nữ,"Đường Nguyễn Đình Chiểu 57, Phường 02, Quận 10, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 10,50.000-100.000
+262,Hoàng Anh Trung,23,nam,"Đường Nguyễn Trãi 85, Phường 11, Quận 10, TP.HCM",20:00-22:00,3,0,0.25,0.0,Quận 10,200.000-250.000
+263,Nguyễn Đình Quân,36,nữ,"Đường Nguyễn Hữu Cảnh 244, Phường 05, Quận 7, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 7,50.000-100.000
+264,Dương Hải Hùng,15,nam,"Đường Hai Bà Trưng 193, Phường 09, TP Thủ Đức, TP.HCM",06:00-08:00,1,0,0.08,0.0,TP Thủ Đức,100.000-150.000
+265,Lê Thị Ngọc,44,không muốn tiết lộ,"Đường Trường Chinh 89, Phường 02, Quận Tân Bình, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận Tân Bình,150.000-200.000
+266,Hồ Tuấn Trang,20,nữ,"Đường Pasteur 158, Phường 04, Quận Tân Bình, TP.HCM",08:00-10:00,4,1,0.33,0.25,Quận Tân Bình,200.000-250.000
+267,Ngô Hải Thành,32,nam,"Đường Lý Thường Kiệt 227, Phường 01, Quận Tân Bình, TP.HCM",16:00-18:00,5,0,0.42,0.0,Quận Tân Bình,200.000-250.000
+268,Lê Hữu Phong,40,nữ,"Đường Hoàng Diệu 242, Phường 07, Quận Bình Tân, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Tân,150.000-200.000
+269,Lê Minh Thu,19,nữ,"Đường Nguyễn Thị Minh Khai 139, Phường 07, Quận 8, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận 8,150.000-200.000
+270,Đỗ Hữu Khánh,21,nữ,"Đường Võ Văn Kiệt 211, Phường 01, Quận Gò Vấp, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận Gò Vấp,200.000-250.000
+271,Hoàng Quang Tú,60,nữ,"Đường Nguyễn Hữu Cảnh 131, Phường 09, Quận Bình Tân, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Bình Tân,100.000-150.000
+272,Trần Thị Tùng,23,nam,"Đường Pasteur 76, Phường 08, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,200.000-250.000
+273,Hoàng Ngọc Hương,36,không muốn tiết lộ,"Đường Nguyễn Trãi 22, Phường 06, Quận Gò Vấp, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Gò Vấp,150.000-200.000
+274,Huỳnh Đình Long,33,nam,"Đường Nguyễn Thị Minh Khai 138, Phường 03, Quận Bình Tân, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Tân,50.000-100.000
+275,Đỗ Gia Ngân,35,nam,"Đường Trường Chinh 54, Phường 11, Quận 3, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 3,100.000-150.000
+276,Lê Ngọc Lan,43,nam,"Đường Nguyễn Trãi 109, Phường 14, Quận Tân Bình, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Tân Bình,200.000-250.000
+277,Võ Hữu Ngọc,27,nữ,"Đường Nguyễn Thị Minh Khai 213, Phường 04, Quận Gò Vấp, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Gò Vấp,200.000-250.000
+278,Lê Gia Hương,47,nam,"Đường Nam Kỳ Khởi Nghĩa 241, Phường 11, TP Thủ Đức, TP.HCM",18:00-20:00,0,0,0.0,0.0,TP Thủ Đức,50.000-100.000
+279,Hoàng Hữu Phú,44,nữ,"Đường Điện Biên Phủ 40, Phường 12, Quận Tân Bình, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Tân Bình,50.000-100.000
+280,Trần Văn Hà,36,nam,"Đường Trường Chinh 85, Phường 08, Quận Tân Phú, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận Tân Phú,100.000-150.000
+281,Trần Thuỳ My,44,không muốn tiết lộ,"Đường Cộng Hòa 14, Phường 02, Quận 3, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 3,100.000-150.000
+282,Phan Hải Thành,20,nam,"Đường Lê Văn Sỹ 143, Phường 13, Quận 8, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 8,200.000-250.000
+283,Nguyễn Minh Vy,42,nam,"Đường Điện Biên Phủ 59, Phường 10, TP Thủ Đức, TP.HCM",14:00-16:00,3,1,0.25,0.333,TP Thủ Đức,200.000-250.000
+284,Đặng Thuỳ Ngọc,60,nam,"Đường Nguyễn Văn Cừ 116, Phường 07, Quận 11, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 11,150.000-200.000
+285,Lý Anh Sơn,58,nữ,"Đường Nguyễn Đình Chiểu 5, Phường 07, Quận 10, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận 10,200.000-250.000
+286,Đặng Minh Giang,42,nữ,"Đường Nguyễn Đình Chiểu 137, Phường 11, Quận 3, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 3,50.000-100.000
+287,Trần Hữu Thoa,34,nữ,"Đường Trường Chinh 159, Phường 11, Quận Tân Phú, TP.HCM",06:00-08:00,0,0,0.0,0.0,Quận Tân Phú,100.000-150.000
+288,Ngô Minh Thu,18,nam,"Đường Điện Biên Phủ 150, Phường 13, Quận Tân Phú, TP.HCM",14:00-16:00,0,0,0.0,0.0,Quận Tân Phú,200.000-250.000
+289,Phan Đình Huy,33,nam,"Đường Cộng Hòa 19, Phường 12, TP Thủ Đức, TP.HCM",10:00-12:00,1,0,0.08,0.0,TP Thủ Đức,100.000-150.000
+290,Bùi Tuấn Phong,16,nam,"Đường Nguyễn Hữu Cảnh 28, Phường 15, Quận Gò Vấp, TP.HCM",08:00-10:00,3,1,0.25,0.333,Quận Gò Vấp,200.000-250.000
+291,Đỗ Quang Hùng,59,nam,"Đường Võ Văn Kiệt 78, Phường 13, Quận Tân Bình, TP.HCM",06:00-08:00,2,2,0.17,1.0,Quận Tân Bình,50.000-100.000
+292,Đỗ Gia Hạnh,21,nữ,"Đường Điện Biên Phủ 238, Phường 05, Quận Bình Tân, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Bình Tân,150.000-200.000
+293,Bùi Anh Thu,15,nữ,"Đường Pasteur 211, Phường 07, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,150.000-200.000
+294,Phạm Ngọc Thoa,35,nam,"Đường Trường Chinh 137, Phường 08, Quận 5, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận 5,100.000-150.000
+295,Vũ Hữu Hạnh,55,nam,"Đường Lý Thường Kiệt 101, Phường 03, Quận Tân Phú, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Tân Phú,50.000-100.000
+296,Trần Ngọc Quyên,20,nam,"Đường Võ Văn Kiệt 77, Phường 11, Quận 5, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 5,50.000-100.000
+297,Ngô Anh Hương,57,nam,"Đường Nguyễn Hữu Cảnh 224, Phường 01, Quận Gò Vấp, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Gò Vấp,50.000-100.000
+298,Bùi Thanh Phong,24,nữ,"Đường Phan Xích Long 2, Phường 02, Quận 1, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận 1,200.000-250.000
+299,Phan Hải Hương,29,không muốn tiết lộ,"Đường Nguyễn Đình Chiểu 243, Phường 09, Quận Gò Vấp, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Gò Vấp,150.000-200.000
+300,Lý Gia Thu,47,nam,"Đường Điện Biên Phủ 192, Phường 05, Quận 7, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 7,50.000-100.000
+301,Lý Ngọc Trung,25,nam,"Đường Nguyễn Hữu Cảnh 232, Phường 04, Quận 11, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 11,200.000-250.000
+302,Nguyễn Thị Sơn,49,nam,"Đường Phan Xích Long 57, Phường 03, Quận 5, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 5,100.000-150.000
+303,Dương Anh Linh,24,nam,"Đường Nguyễn Văn Cừ 47, Phường 04, Quận 3, TP.HCM",18:00-20:00,2,1,0.17,0.5,Quận 3,200.000-250.000
+304,Đỗ Văn Dương,35,nam,"Đường Cộng Hòa 239, Phường 14, Quận Bình Tân, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Bình Tân,200.000-250.000
+305,Đặng Minh Trang,49,nữ,"Đường Pasteur 19, Phường 11, Quận Gò Vấp, TP.HCM",06:00-08:00,3,1,0.25,0.333,Quận Gò Vấp,50.000-100.000
+306,Đặng Gia An,41,nữ,"Đường Võ Văn Kiệt 65, Phường 11, Quận 3, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 3,100.000-150.000
+307,Phạm Quang Hùng,43,nữ,"Đường Nguyễn Thị Minh Khai 149, Phường 04, Quận Tân Phú, TP.HCM",14:00-16:00,7,2,0.58,0.286,Quận Tân Phú,150.000-200.000
+308,Võ Tuấn Quân,28,nam,"Đường Hai Bà Trưng 33, Phường 06, Quận 10, TP.HCM",08:00-10:00,3,1,0.25,0.333,Quận 10,100.000-150.000
+309,Hồ Đình Châu,39,nữ,"Đường Lý Thường Kiệt 159, Phường 02, Quận 8, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận 8,100.000-150.000
+310,Hồ Văn Lan,54,nam,"Đường Điện Biên Phủ 82, Phường 15, Quận 7, TP.HCM",08:00-10:00,5,1,0.42,0.2,Quận 7,100.000-150.000
+311,Đỗ Gia Ngân,25,nam,"Đường Hai Bà Trưng 158, Phường 08, Quận 10, TP.HCM",20:00-22:00,2,1,0.17,0.5,Quận 10,100.000-150.000
+312,Lê Quang Tú,25,nam,"Đường Võ Văn Kiệt 40, Phường 12, Quận Phú Nhuận, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+313,Dương Hải Nam,54,nam,"Đường Nguyễn Hữu Cảnh 246, Phường 13, Quận 10, TP.HCM",16:00-18:00,1,1,0.08,1.0,Quận 10,200.000-250.000
+314,Phạm Hữu Hạnh,56,nữ,"Đường Nam Kỳ Khởi Nghĩa 81, Phường 03, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,150.000-200.000
+315,Hồ Đình Phú,41,nữ,"Đường Lý Thường Kiệt 183, Phường 13, Quận 7, TP.HCM",18:00-20:00,5,0,0.42,0.0,Quận 7,150.000-200.000
+316,Đỗ Hải Huy,39,nam,"Đường Nam Kỳ Khởi Nghĩa 93, Phường 05, TP Thủ Đức, TP.HCM",18:00-20:00,4,0,0.33,0.0,TP Thủ Đức,200.000-250.000
+317,Phan Thanh Tú,15,không muốn tiết lộ,"Đường Phan Xích Long 85, Phường 11, Quận Tân Phú, TP.HCM",10:00-12:00,5,1,0.42,0.2,Quận Tân Phú,150.000-200.000
+318,Hồ Gia Châu,53,nam,"Đường Hai Bà Trưng 92, Phường 08, Quận Bình Thạnh, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Bình Thạnh,100.000-150.000
+319,Trần Văn Hùng,26,nam,"Đường Võ Văn Kiệt 28, Phường 08, Quận Gò Vấp, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận Gò Vấp,50.000-100.000
+320,Bùi Hải Trang,42,nam,"Đường Lê Văn Sỹ 21, Phường 11, Quận Phú Nhuận, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Phú Nhuận,100.000-150.000
+321,Dương Hữu Tú,51,nữ,"Đường Nguyễn Văn Cừ 36, Phường 14, TP Thủ Đức, TP.HCM",16:00-18:00,3,2,0.25,0.667,TP Thủ Đức,100.000-150.000
+322,Hoàng Đình Phong,41,nam,"Đường Nguyễn Trãi 227, Phường 05, Quận Tân Phú, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Tân Phú,50.000-100.000
+323,Huỳnh Quang Ngọc,38,nam,"Đường Điện Biên Phủ 229, Phường 12, Quận 3, TP.HCM",14:00-16:00,5,0,0.42,0.0,Quận 3,150.000-200.000
+324,Bùi Gia Tú,14,nữ,"Đường Trường Chinh 162, Phường 14, Quận Gò Vấp, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Gò Vấp,50.000-100.000
+325,Lý Tuấn Ngọc,59,nam,"Đường Trường Chinh 149, Phường 14, Quận Phú Nhuận, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận Phú Nhuận,200.000-250.000
+326,Lý Văn Quân,27,nam,"Đường Nguyễn Đình Chiểu 55, Phường 13, Quận Phú Nhuận, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Phú Nhuận,200.000-250.000
+327,Bùi Thuỳ Hiếu,27,nữ,"Đường Cộng Hòa 140, Phường 09, Quận 8, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 8,200.000-250.000
+328,Ngô Thanh Ngọc,31,không muốn tiết lộ,"Đường Hai Bà Trưng 39, Phường 11, Quận Bình Tân, TP.HCM",06:00-08:00,3,1,0.25,0.333,Quận Bình Tân,50.000-100.000
+329,Nguyễn Thanh Trang,59,nam,"Đường Nguyễn Hữu Cảnh 229, Phường 07, Quận 7, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận 7,200.000-250.000
+330,Võ Thuỳ Long,18,nữ,"Đường Võ Văn Kiệt 129, Phường 03, Quận Bình Thạnh, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Thạnh,100.000-150.000
+331,Trần Thanh Trang,50,nam,"Đường Điện Biên Phủ 129, Phường 07, Quận 10, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 10,100.000-150.000
+332,Huỳnh Gia Quyên,20,nữ,"Đường Trường Chinh 218, Phường 11, Quận 7, TP.HCM",06:00-08:00,4,1,0.33,0.25,Quận 7,200.000-250.000
+333,Hoàng Thuỳ Mai,48,nữ,"Đường Lê Văn Sỹ 36, Phường 13, Quận Gò Vấp, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận Gò Vấp,200.000-250.000
+334,Trần Thanh Hiếu,25,nữ,"Đường Pasteur 145, Phường 03, Quận 5, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận 5,200.000-250.000
+335,Phan Văn Thoa,37,nam,"Đường Phan Xích Long 124, Phường 12, Quận Tân Phú, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Tân Phú,200.000-250.000
+336,Bùi Quang Huy,34,nữ,"Đường Nguyễn Hữu Cảnh 195, Phường 01, Quận 7, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 7,50.000-100.000
+337,Ngô Tuấn Linh,26,nam,"Đường Hai Bà Trưng 68, Phường 04, Quận 3, TP.HCM",16:00-18:00,5,2,0.42,0.4,Quận 3,50.000-100.000
+338,Ngô Gia Trang,43,nam,"Đường Nguyễn Hữu Cảnh 172, Phường 04, Quận 1, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 1,100.000-150.000
+339,Trần Tuấn Hùng,21,nữ,"Đường Nguyễn Trãi 93, Phường 09, Quận Bình Tân, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Bình Tân,150.000-200.000
+340,Phan Gia Phong,30,nam,"Đường Nguyễn Đình Chiểu 226, Phường 08, Quận Bình Thạnh, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận Bình Thạnh,100.000-150.000
+341,Lý Gia Quyên,56,nam,"Đường Cộng Hòa 83, Phường 01, Quận Tân Bình, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận Tân Bình,50.000-100.000
+342,Bùi Hữu Thu,45,nữ,"Đường Nguyễn Thị Minh Khai 163, Phường 12, Quận Gò Vấp, TP.HCM",16:00-18:00,5,1,0.42,0.2,Quận Gò Vấp,100.000-150.000
+343,Bùi Gia Phương,47,nữ,"Đường Nguyễn Văn Cừ 68, Phường 14, Quận Tân Phú, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Tân Phú,100.000-150.000
+344,Võ Thanh Trang,54,nam,"Đường Lê Văn Sỹ 97, Phường 07, Quận Tân Bình, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận Tân Bình,50.000-100.000
+345,Phan Anh Nam,34,nam,"Đường Nguyễn Hữu Cảnh 230, Phường 10, Quận Tân Bình, TP.HCM",16:00-18:00,4,0,0.33,0.0,Quận Tân Bình,150.000-200.000
+346,Đặng Anh Ngọc,52,nam,"Đường Điện Biên Phủ 97, Phường 09, Quận 8, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 8,50.000-100.000
+347,Đặng Tuấn Linh,38,nam,"Đường Lý Thường Kiệt 91, Phường 09, Quận 11, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 11,100.000-150.000
+348,Lý Đình Trang,53,nữ,"Đường Nguyễn Hữu Cảnh 124, Phường 08, Quận Bình Tân, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Bình Tân,50.000-100.000
+349,Đỗ Gia Nam,39,nữ,"Đường Trường Chinh 113, Phường 09, Quận 5, TP.HCM",16:00-18:00,1,1,0.08,1.0,Quận 5,150.000-200.000
+350,Đặng Thị Vy,51,nam,"Đường Lê Văn Sỹ 132, Phường 04, Quận 3, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 3,150.000-200.000
+351,Hồ Quang Phương,21,nam,"Đường Nguyễn Văn Cừ 48, Phường 04, Quận 5, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 5,50.000-100.000
+352,Hoàng Ngọc Châu,36,nữ,"Đường Lê Văn Sỹ 184, Phường 06, Quận Phú Nhuận, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+353,Đặng Tuấn Hà,36,nam,"Đường Nguyễn Thị Minh Khai 107, Phường 11, Quận 7, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 7,50.000-100.000
+354,Đỗ Minh My,43,nam,"Đường Hoàng Diệu 124, Phường 12, Quận 3, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 3,200.000-250.000
+355,Lý Anh Lan,53,nam,"Đường Hai Bà Trưng 152, Phường 08, Quận 7, TP.HCM",06:00-08:00,0,0,0.0,0.0,Quận 7,100.000-150.000
+356,Võ Gia Nam,25,nam,"Đường Lê Văn Sỹ 106, Phường 11, TP Thủ Đức, TP.HCM",18:00-20:00,6,0,0.5,0.0,TP Thủ Đức,100.000-150.000
+357,Hoàng Thị Mai,57,nữ,"Đường Trường Chinh 33, Phường 04, Quận 1, TP.HCM",10:00-12:00,4,0,0.33,0.0,Quận 1,150.000-200.000
+358,Vũ Văn Tùng,59,nam,"Đường Lê Văn Sỹ 132, Phường 03, Quận Tân Bình, TP.HCM",10:00-12:00,4,1,0.33,0.25,Quận Tân Bình,100.000-150.000
+359,Vũ Thuỳ Long,33,nữ,"Đường Cộng Hòa 38, Phường 15, Quận Phú Nhuận, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận Phú Nhuận,200.000-250.000
+360,Trần Thị Thành,53,nam,"Đường Cộng Hòa 237, Phường 03, Quận 8, TP.HCM",06:00-08:00,0,0,0.0,0.0,Quận 8,150.000-200.000
+361,Bùi Tuấn Trang,51,nam,"Đường Lê Văn Sỹ 154, Phường 09, Quận 11, TP.HCM",10:00-12:00,3,1,0.25,0.333,Quận 11,50.000-100.000
+362,Phạm Thuỳ Hùng,19,nam,"Đường Trường Chinh 187, Phường 15, Quận Tân Phú, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Tân Phú,50.000-100.000
+363,Nguyễn Gia Hương,57,nữ,"Đường Võ Văn Kiệt 115, Phường 02, Quận 7, TP.HCM",08:00-10:00,4,0,0.33,0.0,Quận 7,150.000-200.000
+364,Ngô Thuỳ Trang,22,nam,"Đường Hai Bà Trưng 44, Phường 14, Quận Bình Thạnh, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận Bình Thạnh,150.000-200.000
+365,Lý Thuỳ Lan,34,nam,"Đường Lý Thường Kiệt 154, Phường 14, Quận 11, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 11,150.000-200.000
+366,Đặng Đình Ngân,21,nam,"Đường Phan Xích Long 211, Phường 13, Quận Phú Nhuận, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Phú Nhuận,200.000-250.000
+367,Trần Hải Hà,29,nam,"Đường Lê Văn Sỹ 131, Phường 10, Quận Tân Bình, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Tân Bình,50.000-100.000
+368,Vũ Gia Châu,33,nữ,"Đường Nguyễn Văn Cừ 176, Phường 03, Quận Tân Phú, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Tân Phú,200.000-250.000
+369,Huỳnh Quang Khánh,21,nữ,"Đường Hoàng Diệu 153, Phường 15, Quận Bình Thạnh, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Bình Thạnh,50.000-100.000
+370,Trần Quang Trung,25,nữ,"Đường Điện Biên Phủ 99, Phường 04, Quận 11, TP.HCM",10:00-12:00,6,0,0.5,0.0,Quận 11,150.000-200.000
+371,Huỳnh Tuấn Ngân,37,nữ,"Đường Phan Xích Long 52, Phường 02, Quận 1, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 1,200.000-250.000
+372,Trần Văn Ngọc,58,nữ,"Đường Nam Kỳ Khởi Nghĩa 156, Phường 14, Quận 5, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận 5,100.000-150.000
+373,Phạm Đình Ngân,23,không muốn tiết lộ,"Đường Nguyễn Thị Minh Khai 231, Phường 03, Quận Bình Thạnh, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận Bình Thạnh,50.000-100.000
+374,Dương Thuỳ Vy,46,nữ,"Đường Cộng Hòa 137, Phường 15, Quận Bình Tân, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Tân,150.000-200.000
+375,Lý Hữu Tú,38,nam,"Đường Nguyễn Thị Minh Khai 169, Phường 02, Quận Bình Thạnh, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận Bình Thạnh,150.000-200.000
+376,Dương Ngọc Lan,40,nữ,"Đường Phan Xích Long 139, Phường 15, Quận Phú Nhuận, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Phú Nhuận,200.000-250.000
+377,Phạm Đình Hương,52,nữ,"Đường Trường Chinh 174, Phường 15, Quận Bình Tân, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Bình Tân,100.000-150.000
+378,Dương Thuỳ My,22,nữ,"Đường Nam Kỳ Khởi Nghĩa 95, Phường 09, Quận 11, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 11,100.000-150.000
+379,Huỳnh Văn Phú,50,nữ,"Đường Cộng Hòa 110, Phường 12, Quận Gò Vấp, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Gò Vấp,50.000-100.000
+380,Đặng Thanh Lan,38,nam,"Đường Lý Thường Kiệt 203, Phường 13, Quận Bình Thạnh, TP.HCM",06:00-08:00,2,1,0.17,0.5,Quận Bình Thạnh,50.000-100.000
+381,Huỳnh Thanh Sơn,41,nam,"Đường Nguyễn Đình Chiểu 206, Phường 06, Quận Phú Nhuận, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận Phú Nhuận,50.000-100.000
+382,Ngô Gia Phong,25,nam,"Đường Nguyễn Thị Minh Khai 66, Phường 07, Quận 5, TP.HCM",20:00-22:00,3,0,0.25,0.0,Quận 5,200.000-250.000
+383,Lê Quang Hạnh,45,nam,"Đường Hai Bà Trưng 233, Phường 13, Quận 7, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 7,150.000-200.000
+384,Huỳnh Hữu Trang,54,nữ,"Đường Điện Biên Phủ 225, Phường 05, Quận Phú Nhuận, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận Phú Nhuận,200.000-250.000
+385,Bùi Anh An,48,nữ,"Đường Nam Kỳ Khởi Nghĩa 2, Phường 05, Quận 7, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 7,150.000-200.000
+386,Võ Quang Mai,58,nam,"Đường Trường Chinh 31, Phường 10, Quận Gò Vấp, TP.HCM",14:00-16:00,1,1,0.08,1.0,Quận Gò Vấp,150.000-200.000
+387,Dương Hải Nam,55,không muốn tiết lộ,"Đường Trường Chinh 53, Phường 07, Quận Tân Bình, TP.HCM",18:00-20:00,3,2,0.25,0.667,Quận Tân Bình,150.000-200.000
+388,Bùi Ngọc An,25,nữ,"Đường Hoàng Diệu 28, Phường 07, Quận 10, TP.HCM",08:00-10:00,1,0,0.08,0.0,Quận 10,100.000-150.000
+389,Võ Thuỳ Quân,49,nữ,"Đường Phan Xích Long 150, Phường 07, Quận Tân Bình, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Tân Bình,200.000-250.000
+390,Vũ Văn Hiếu,24,không muốn tiết lộ,"Đường Nguyễn Văn Cừ 138, Phường 05, TP Thủ Đức, TP.HCM",14:00-16:00,1,0,0.08,0.0,TP Thủ Đức,200.000-250.000
+391,Dương Ngọc Hương,45,không muốn tiết lộ,"Đường Nam Kỳ Khởi Nghĩa 157, Phường 10, Quận 10, TP.HCM",14:00-16:00,4,1,0.33,0.25,Quận 10,200.000-250.000
+392,Hồ Thuỳ Tú,32,nam,"Đường Nguyễn Văn Cừ 194, Phường 11, Quận 11, TP.HCM",14:00-16:00,0,0,0.0,0.0,Quận 11,100.000-150.000
+393,Đặng Tuấn Hiếu,22,nữ,"Đường Nguyễn Trãi 201, Phường 07, Quận Gò Vấp, TP.HCM",06:00-08:00,5,0,0.42,0.0,Quận Gò Vấp,100.000-150.000
+394,Đặng Đình Long,25,nam,"Đường Hai Bà Trưng 144, Phường 03, Quận 10, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 10,150.000-200.000
+395,Vũ Hữu Trang,34,nữ,"Đường Hai Bà Trưng 148, Phường 05, Quận 8, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 8,100.000-150.000
+396,Hoàng Minh Quân,42,nữ,"Đường Nguyễn Hữu Cảnh 102, Phường 13, Quận Tân Phú, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Tân Phú,50.000-100.000
+397,Ngô Tuấn Trang,53,nam,"Đường Phan Xích Long 169, Phường 14, TP Thủ Đức, TP.HCM",08:00-10:00,3,0,0.25,0.0,TP Thủ Đức,50.000-100.000
+398,Phan Hải Mai,17,không muốn tiết lộ,"Đường Nguyễn Thị Minh Khai 115, Phường 12, Quận 7, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận 7,50.000-100.000
+399,Lê Gia Thoa,36,nam,"Đường Lê Văn Sỹ 131, Phường 02, Quận 7, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận 7,200.000-250.000
+400,Đỗ Thị Hiếu,14,nữ,"Đường Nguyễn Đình Chiểu 206, Phường 13, Quận 10, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 10,50.000-100.000
+401,Trần Gia Tú,45,nữ,"Đường Cộng Hòa 247, Phường 03, Quận 11, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 11,100.000-150.000
+402,Phan Thanh Vy,22,nam,"Đường Trường Chinh 211, Phường 13, Quận 3, TP.HCM",14:00-16:00,0,0,0.0,0.0,Quận 3,200.000-250.000
+403,Hoàng Hữu Phong,26,nữ,"Đường Phan Xích Long 112, Phường 08, Quận Phú Nhuận, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận Phú Nhuận,200.000-250.000
+404,Dương Thị Linh,38,nữ,"Đường Điện Biên Phủ 57, Phường 02, Quận 8, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 8,50.000-100.000
+405,Lý Thị Tú,49,nam,"Đường Nguyễn Hữu Cảnh 10, Phường 02, Quận Phú Nhuận, TP.HCM",16:00-18:00,2,1,0.17,0.5,Quận Phú Nhuận,150.000-200.000
+406,Dương Hải Dương,46,nữ,"Đường Nguyễn Đình Chiểu 158, Phường 15, Quận 11, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 11,150.000-200.000
+407,Dương Hữu Tú,55,nữ,"Đường Võ Văn Kiệt 15, Phường 12, Quận Phú Nhuận, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Phú Nhuận,100.000-150.000
+408,Ngô Minh Dương,45,nữ,"Đường Lê Văn Sỹ 113, Phường 11, Quận Bình Thạnh, TP.HCM",08:00-10:00,4,2,0.33,0.5,Quận Bình Thạnh,50.000-100.000
+409,Dương Thuỳ Ngọc,40,nữ,"Đường Trường Chinh 169, Phường 04, TP Thủ Đức, TP.HCM",14:00-16:00,2,0,0.17,0.0,TP Thủ Đức,100.000-150.000
+410,Nguyễn Quang My,57,nam,"Đường Võ Văn Kiệt 201, Phường 04, Quận 1, TP.HCM",14:00-16:00,6,1,0.5,0.167,Quận 1,150.000-200.000
+411,Nguyễn Tuấn Linh,45,nữ,"Đường Lý Thường Kiệt 173, Phường 10, Quận 5, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 5,150.000-200.000
+412,Lê Văn Thiện,40,nữ,"Đường Cộng Hòa 168, Phường 06, Quận 7, TP.HCM",14:00-16:00,3,1,0.25,0.333,Quận 7,50.000-100.000
+413,Đỗ Tuấn Giang,59,nữ,"Đường Trường Chinh 71, Phường 03, Quận 3, TP.HCM",14:00-16:00,3,0,0.25,0.0,Quận 3,150.000-200.000
+414,Trần Thị Trang,42,nữ,"Đường Nguyễn Đình Chiểu 102, Phường 06, Quận Tân Bình, TP.HCM",20:00-22:00,4,1,0.33,0.25,Quận Tân Bình,150.000-200.000
+415,Trần Ngọc Thành,45,nam,"Đường Nguyễn Đình Chiểu 133, Phường 10, Quận 7, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận 7,150.000-200.000
+416,Huỳnh Hải Hùng,24,không muốn tiết lộ,"Đường Trường Chinh 18, Phường 12, Quận Tân Phú, TP.HCM",10:00-12:00,0,0,0.0,0.0,Quận Tân Phú,50.000-100.000
+417,Ngô Đình Quyên,19,nữ,"Đường Điện Biên Phủ 186, Phường 09, Quận 8, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận 8,50.000-100.000
+418,Dương Quang Quyên,50,nữ,"Đường Nguyễn Hữu Cảnh 71, Phường 06, TP Thủ Đức, TP.HCM",06:00-08:00,3,1,0.25,0.333,TP Thủ Đức,150.000-200.000
+419,Lê Thuỳ Vy,15,nam,"Đường Lý Thường Kiệt 117, Phường 10, Quận 7, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 7,150.000-200.000
+420,Hoàng Thuỳ Phương,28,nữ,"Đường Nguyễn Đình Chiểu 67, Phường 10, Quận 1, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 1,200.000-250.000
+421,Phạm Hữu Vy,32,nam,"Đường Lê Văn Sỹ 28, Phường 07, Quận Gò Vấp, TP.HCM",14:00-16:00,5,0,0.42,0.0,Quận Gò Vấp,50.000-100.000
+422,Hồ Gia Hùng,16,nam,"Đường Điện Biên Phủ 88, Phường 09, Quận 8, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 8,100.000-150.000
+423,Vũ Văn Bình,31,nam,"Đường Nguyễn Thị Minh Khai 245, Phường 13, Quận Gò Vấp, TP.HCM",10:00-12:00,1,1,0.08,1.0,Quận Gò Vấp,100.000-150.000
+424,Đặng Minh Vy,28,nữ,"Đường Nguyễn Văn Cừ 209, Phường 15, Quận Gò Vấp, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Gò Vấp,150.000-200.000
+425,Ngô Gia Quyên,48,nam,"Đường Nguyễn Văn Cừ 248, Phường 12, Quận Bình Thạnh, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Bình Thạnh,150.000-200.000
+426,Vũ Anh Thu,32,nữ,"Đường Nguyễn Đình Chiểu 198, Phường 10, Quận Bình Thạnh, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận Bình Thạnh,200.000-250.000
+427,Đỗ Hữu Nam,24,nam,"Đường Lý Thường Kiệt 247, Phường 13, Quận 10, TP.HCM",10:00-12:00,1,0,0.08,0.0,Quận 10,200.000-250.000
+428,Phan Tuấn Hiếu,43,nam,"Đường Pasteur 230, Phường 11, Quận Bình Thạnh, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận Bình Thạnh,50.000-100.000
+429,Trần Hải Thành,50,nữ,"Đường Trường Chinh 67, Phường 08, Quận 3, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 3,100.000-150.000
+430,Nguyễn Anh Linh,45,nữ,"Đường Điện Biên Phủ 202, Phường 07, Quận Tân Bình, TP.HCM",08:00-10:00,0,0,0.0,0.0,Quận Tân Bình,200.000-250.000
+431,Lê Thị Châu,49,nữ,"Đường Lý Thường Kiệt 59, Phường 11, Quận Tân Phú, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận Tân Phú,100.000-150.000
+432,Dương Thanh Dương,46,nam,"Đường Hoàng Diệu 133, Phường 07, Quận 10, TP.HCM",08:00-10:00,2,2,0.17,1.0,Quận 10,200.000-250.000
+433,Vũ Tuấn Châu,21,nam,"Đường Trường Chinh 68, Phường 12, TP Thủ Đức, TP.HCM",08:00-10:00,2,0,0.17,0.0,TP Thủ Đức,150.000-200.000
+434,Hồ Minh Long,50,nữ,"Đường Lý Thường Kiệt 103, Phường 05, Quận 3, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 3,200.000-250.000
+435,Phan Hải Dương,21,nữ,"Đường Hoàng Diệu 239, Phường 02, Quận Gò Vấp, TP.HCM",18:00-20:00,0,0,0.0,0.0,Quận Gò Vấp,200.000-250.000
+436,Hoàng Gia Ngân,31,nữ,"Đường Lê Văn Sỹ 91, Phường 08, Quận 10, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận 10,50.000-100.000
+437,Vũ Tuấn Phong,48,nữ,"Đường Nguyễn Trãi 69, Phường 15, Quận Phú Nhuận, TP.HCM",14:00-16:00,4,1,0.33,0.25,Quận Phú Nhuận,150.000-200.000
+438,Bùi Anh Ngọc,37,nữ,"Đường Lê Văn Sỹ 239, Phường 12, Quận Tân Bình, TP.HCM",06:00-08:00,1,0,0.08,0.0,Quận Tân Bình,150.000-200.000
+439,Hoàng Thuỳ Tùng,48,không muốn tiết lộ,"Đường Nguyễn Trãi 52, Phường 08, Quận Tân Phú, TP.HCM",10:00-12:00,2,1,0.17,0.5,Quận Tân Phú,50.000-100.000
+440,Vũ Quang Ngọc,16,nam,"Đường Lý Thường Kiệt 224, Phường 12, Quận 7, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận 7,100.000-150.000
+441,Võ Văn Khánh,60,nữ,"Đường Nguyễn Văn Cừ 52, Phường 04, Quận 7, TP.HCM",10:00-12:00,1,1,0.08,1.0,Quận 7,150.000-200.000
+442,Ngô Gia Trung,42,nam,"Đường Lý Thường Kiệt 92, Phường 14, Quận Phú Nhuận, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Phú Nhuận,150.000-200.000
+443,Trần Đình Quyên,48,nam,"Đường Phan Xích Long 31, Phường 13, Quận 3, TP.HCM",10:00-12:00,4,0,0.33,0.0,Quận 3,50.000-100.000
+444,Bùi Tuấn Thành,27,nam,"Đường Điện Biên Phủ 127, Phường 11, Quận Tân Bình, TP.HCM",14:00-16:00,4,0,0.33,0.0,Quận Tân Bình,100.000-150.000
+445,Ngô Hữu Ngọc,41,nam,"Đường Trường Chinh 139, Phường 13, TP Thủ Đức, TP.HCM",14:00-16:00,0,0,0.0,0.0,TP Thủ Đức,150.000-200.000
+446,Hồ Hữu Vy,20,nam,"Đường Cộng Hòa 96, Phường 14, Quận Bình Thạnh, TP.HCM",10:00-12:00,3,1,0.25,0.333,Quận Bình Thạnh,50.000-100.000
+447,Lý Anh Long,55,nữ,"Đường Hoàng Diệu 223, Phường 08, Quận Phú Nhuận, TP.HCM",14:00-16:00,2,1,0.17,0.5,Quận Phú Nhuận,150.000-200.000
+448,Đặng Tuấn Huy,29,nữ,"Đường Nguyễn Văn Cừ 196, Phường 08, Quận 5, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận 5,200.000-250.000
+449,Dương Văn Thành,33,không muốn tiết lộ,"Đường Nguyễn Văn Cừ 193, Phường 07, Quận 7, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 7,100.000-150.000
+450,Ngô Gia Tùng,16,nữ,"Đường Phan Xích Long 205, Phường 01, Quận Gò Vấp, TP.HCM",20:00-22:00,3,0,0.25,0.0,Quận Gò Vấp,200.000-250.000
+451,Hoàng Quang Mai,42,nam,"Đường Nam Kỳ Khởi Nghĩa 9, Phường 08, Quận Gò Vấp, TP.HCM",08:00-10:00,2,1,0.17,0.5,Quận Gò Vấp,100.000-150.000
+452,Võ Anh Phú,30,không muốn tiết lộ,"Đường Nguyễn Hữu Cảnh 176, Phường 07, TP Thủ Đức, TP.HCM",14:00-16:00,1,0,0.08,0.0,TP Thủ Đức,50.000-100.000
+453,Lê Minh Quân,36,nữ,"Đường Lê Văn Sỹ 179, Phường 08, Quận 3, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận 3,150.000-200.000
+454,Lê Gia Lan,19,nữ,"Đường Pasteur 3, Phường 06, Quận Tân Phú, TP.HCM",06:00-08:00,3,0,0.25,0.0,Quận Tân Phú,150.000-200.000
+455,Trần Ngọc Quyên,42,nữ,"Đường Trường Chinh 98, Phường 11, Quận 7, TP.HCM",16:00-18:00,2,1,0.17,0.5,Quận 7,50.000-100.000
+456,Trần Thị Lan,21,nam,"Đường Nguyễn Thị Minh Khai 157, Phường 06, Quận 10, TP.HCM",08:00-10:00,4,0,0.33,0.0,Quận 10,150.000-200.000
+457,Phan Minh Linh,29,nữ,"Đường Nguyễn Văn Cừ 68, Phường 03, Quận Gò Vấp, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận Gò Vấp,200.000-250.000
+458,Bùi Ngọc An,27,nam,"Đường Lý Thường Kiệt 246, Phường 05, Quận Bình Thạnh, TP.HCM",08:00-10:00,4,2,0.33,0.5,Quận Bình Thạnh,50.000-100.000
+459,Phan Anh Hiếu,51,nam,"Đường Hoàng Diệu 128, Phường 06, Quận 5, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận 5,200.000-250.000
+460,Lý Anh Linh,58,nữ,"Đường Nam Kỳ Khởi Nghĩa 180, Phường 04, Quận 11, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 11,100.000-150.000
+461,Hồ Anh Phong,36,nam,"Đường Nguyễn Hữu Cảnh 103, Phường 06, TP Thủ Đức, TP.HCM",14:00-16:00,0,0,0.0,0.0,TP Thủ Đức,150.000-200.000
+462,Đặng Quang Thu,59,nữ,"Đường Nguyễn Văn Cừ 147, Phường 08, Quận 5, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận 5,200.000-250.000
+463,Đỗ Ngọc My,53,nữ,"Đường Phan Xích Long 59, Phường 10, Quận Tân Bình, TP.HCM",16:00-18:00,3,0,0.25,0.0,Quận Tân Bình,150.000-200.000
+464,Đỗ Gia Trung,54,nữ,"Đường Nguyễn Thị Minh Khai 206, Phường 12, Quận 8, TP.HCM",18:00-20:00,2,0,0.17,0.0,Quận 8,100.000-150.000
+465,Dương Thị Trang,41,nam,"Đường Lý Thường Kiệt 220, Phường 09, Quận 11, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận 11,150.000-200.000
+466,Bùi Anh Quân,24,không muốn tiết lộ,"Đường Nguyễn Đình Chiểu 205, Phường 04, Quận 5, TP.HCM",06:00-08:00,3,1,0.25,0.333,Quận 5,100.000-150.000
+467,Bùi Quang Châu,53,không muốn tiết lộ,"Đường Phan Xích Long 3, Phường 08, Quận Bình Tân, TP.HCM",14:00-16:00,4,1,0.33,0.25,Quận Bình Tân,50.000-100.000
+468,Vũ Tuấn Huy,22,nam,"Đường Lê Văn Sỹ 35, Phường 07, Quận Bình Thạnh, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận Bình Thạnh,150.000-200.000
+469,Nguyễn Ngọc Thành,27,nữ,"Đường Hoàng Diệu 77, Phường 13, Quận Bình Thạnh, TP.HCM",20:00-22:00,0,0,0.0,0.0,Quận Bình Thạnh,50.000-100.000
+470,Đặng Hữu Lan,27,nữ,"Đường Nguyễn Văn Cừ 146, Phường 09, TP Thủ Đức, TP.HCM",08:00-10:00,1,0,0.08,0.0,TP Thủ Đức,100.000-150.000
+471,Bùi Anh Quyên,17,không muốn tiết lộ,"Đường Cộng Hòa 177, Phường 07, Quận 3, TP.HCM",18:00-20:00,2,1,0.17,0.5,Quận 3,50.000-100.000
+472,Vũ Minh Phú,50,nam,"Đường Lê Văn Sỹ 209, Phường 01, Quận 7, TP.HCM",16:00-18:00,1,0,0.08,0.0,Quận 7,200.000-250.000
+473,Võ Hải Trung,36,nữ,"Đường Nguyễn Văn Cừ 162, Phường 08, TP Thủ Đức, TP.HCM",08:00-10:00,1,0,0.08,0.0,TP Thủ Đức,50.000-100.000
+474,Lý Minh Hương,48,nữ,"Đường Nguyễn Thị Minh Khai 86, Phường 08, Quận Tân Phú, TP.HCM",08:00-10:00,1,1,0.08,1.0,Quận Tân Phú,200.000-250.000
+475,Đỗ Hữu Hùng,31,nam,"Đường Nguyễn Văn Cừ 144, Phường 06, Quận 10, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 10,100.000-150.000
+476,Lý Hữu Vy,52,nữ,"Đường Nguyễn Văn Cừ 106, Phường 06, Quận 1, TP.HCM",06:00-08:00,2,0,0.17,0.0,Quận 1,100.000-150.000
+477,Trần Gia Châu,48,nam,"Đường Nguyễn Thị Minh Khai 174, Phường 06, TP Thủ Đức, TP.HCM",08:00-10:00,1,0,0.08,0.0,TP Thủ Đức,150.000-200.000
+478,Lê Thuỳ Dương,24,không muốn tiết lộ,"Đường Nguyễn Trãi 167, Phường 10, Quận Phú Nhuận, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Phú Nhuận,200.000-250.000
+479,Nguyễn Quang Hùng,34,nam,"Đường Lê Văn Sỹ 91, Phường 13, Quận 8, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận 8,150.000-200.000
+480,Vũ Thị Huy,59,nữ,"Đường Hoàng Diệu 125, Phường 11, Quận Gò Vấp, TP.HCM",06:00-08:00,2,1,0.17,0.5,Quận Gò Vấp,150.000-200.000
+481,Nguyễn Anh Tú,32,nam,"Đường Pasteur 98, Phường 15, Quận 3, TP.HCM",06:00-08:00,1,1,0.08,1.0,Quận 3,100.000-150.000
+482,Dương Đình Dương,32,nữ,"Đường Võ Văn Kiệt 245, Phường 08, Quận Tân Bình, TP.HCM",16:00-18:00,0,0,0.0,0.0,Quận Tân Bình,50.000-100.000
+483,Lý Thuỳ Trung,50,nữ,"Đường Phan Xích Long 164, Phường 14, Quận 5, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 5,100.000-150.000
+484,Nguyễn Văn Vy,31,nữ,"Đường Hoàng Diệu 157, Phường 07, Quận Tân Bình, TP.HCM",20:00-22:00,2,0,0.17,0.0,Quận Tân Bình,100.000-150.000
+485,Ngô Văn Bình,46,nam,"Đường Nguyễn Đình Chiểu 21, Phường 14, Quận 3, TP.HCM",08:00-10:00,2,0,0.17,0.0,Quận 3,50.000-100.000
+486,Võ Gia Ngân,57,nam,"Đường Lê Văn Sỹ 81, Phường 06, Quận 7, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận 7,200.000-250.000
+487,Nguyễn Gia Thiện,20,nam,"Đường Hoàng Diệu 182, Phường 11, Quận 8, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 8,200.000-250.000
+488,Huỳnh Thị Hạnh,22,nam,"Đường Nguyễn Văn Cừ 102, Phường 10, Quận Tân Bình, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Tân Bình,50.000-100.000
+489,Hoàng Anh Lan,40,nam,"Đường Nguyễn Văn Cừ 200, Phường 15, Quận Bình Thạnh, TP.HCM",10:00-12:00,2,0,0.17,0.0,Quận Bình Thạnh,50.000-100.000
+490,Võ Đình Nam,17,nam,"Đường Nguyễn Hữu Cảnh 134, Phường 12, Quận Phú Nhuận, TP.HCM",14:00-16:00,1,0,0.08,0.0,Quận Phú Nhuận,150.000-200.000
+491,Hồ Thị Quân,31,nam,"Đường Pasteur 48, Phường 07, Quận 5, TP.HCM",06:00-08:00,4,2,0.33,0.5,Quận 5,50.000-100.000
+492,Hồ Minh Mai,55,nam,"Đường Trường Chinh 61, Phường 03, Quận Tân Phú, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận Tân Phú,50.000-100.000
+493,Vũ Ngọc Hà,22,nữ,"Đường Nguyễn Văn Cừ 192, Phường 12, Quận Tân Phú, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận Tân Phú,150.000-200.000
+494,Trần Thị Sơn,58,không muốn tiết lộ,"Đường Điện Biên Phủ 102, Phường 04, Quận 5, TP.HCM",14:00-16:00,2,0,0.17,0.0,Quận 5,200.000-250.000
+495,Hồ Quang Trang,22,nữ,"Đường Nguyễn Thị Minh Khai 240, Phường 02, Quận 3, TP.HCM",08:00-10:00,3,0,0.25,0.0,Quận 3,50.000-100.000
+496,Trần Thuỳ An,29,nữ,"Đường Hai Bà Trưng 7, Phường 09, Quận 1, TP.HCM",20:00-22:00,1,0,0.08,0.0,Quận 1,50.000-100.000
+497,Huỳnh Thị Trung,23,nam,"Đường Nguyễn Đình Chiểu 22, Phường 09, Quận Bình Tân, TP.HCM",16:00-18:00,2,0,0.17,0.0,Quận Bình Tân,150.000-200.000
+498,Ngô Thuỳ Phú,59,nữ,"Đường Nguyễn Thị Minh Khai 40, Phường 05, Quận Phú Nhuận, TP.HCM",18:00-20:00,3,0,0.25,0.0,Quận Phú Nhuận,50.000-100.000
+499,Phạm Gia Châu,34,nam,"Đường Điện Biên Phủ 80, Phường 11, Quận 11, TP.HCM",18:00-20:00,4,0,0.33,0.0,Quận 11,150.000-200.000
+500,Vũ Anh Trang,29,nam,"Đường Lý Thường Kiệt 73, Phường 04, Quận Tân Phú, TP.HCM",10:00-12:00,3,0,0.25,0.0,Quận Tân Phú,100.000-150.000

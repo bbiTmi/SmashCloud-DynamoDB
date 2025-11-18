@@ -1,0 +1,201 @@
+﻿court_id,club_id,court_name,court_status
+1,1,Sân 1,available
+2,1,Sân 2,available
+3,1,D3,available
+4,1,D4,booked
+5,2,B1,available
+6,2,Sân 2,available
+7,3,A1,booked
+8,3,C2,available
+9,3,Sân 3,available
+10,4,Sân 1,available
+11,4,A2,available
+12,4,B3,booked
+13,5,Sân 1,available
+14,5,Sân 2,available
+15,5,A3,booked
+16,5,Sân 4,booked
+17,5,D5,available
+18,6,Sân 1,booked
+19,6,Sân 2,booked
+20,6,C3,maintenance
+21,6,D4,booked
+22,7,B1,booked
+23,7,Sân 2,available
+24,7,Sân 3,available
+25,8,D1,available
+26,8,Sân 2,available
+27,8,Sân 3,available
+28,8,Sân 4,available
+29,8,Sân 5,available
+30,9,B1,available
+31,9,Sân 2,available
+32,9,Sân 3,available
+33,10,Sân 1,maintenance
+34,10,A2,booked
+35,10,D3,available
+36,10,C4,booked
+37,11,D1,available
+38,11,B2,available
+39,11,Sân 3,available
+40,11,Sân 4,available
+41,11,B5,booked
+42,11,A6,maintenance
+43,11,A7,available
+44,12,Sân 1,booked
+45,12,Sân 2,available
+46,13,Sân 1,available
+47,13,Sân 2,booked
+48,13,Sân 3,maintenance
+49,14,Sân 1,booked
+50,14,Sân 2,booked
+51,14,Sân 3,maintenance
+52,14,Sân 4,available
+53,15,A1,booked
+54,15,B2,booked
+55,15,B3,available
+56,15,B4,available
+57,15,Sân 5,available
+58,15,A6,booked
+59,16,Sân 1,available
+60,16,C2,available
+61,16,D3,available
+62,17,A1,available
+63,17,B2,available
+64,17,A3,booked
+65,17,A4,available
+66,17,Sân 5,available
+67,18,C1,available
+68,18,Sân 2,available
+69,18,Sân 3,available
+70,18,D4,booked
+71,18,Sân 5,booked
+72,18,C6,available
+73,19,D1,available
+74,19,C2,available
+75,19,Sân 3,maintenance
+76,19,Sân 4,available
+77,20,D1,available
+78,20,Sân 2,available
+79,21,Sân 1,available
+80,21,Sân 2,available
+81,21,C3,available
+82,21,B4,available
+83,21,D5,available
+84,22,Sân 1,available
+85,22,D2,booked
+86,23,Sân 1,available
+87,23,C2,available
+88,24,Sân 1,available
+89,24,Sân 2,maintenance
+90,24,C3,booked
+91,24,Sân 4,available
+92,24,Sân 5,available
+93,24,Sân 6,available
+94,25,B1,available
+95,25,C2,booked
+96,25,C3,maintenance
+97,25,C4,available
+98,25,Sân 5,available
+99,25,C6,available
+100,26,Sân 1,available
+101,26,D2,available
+102,26,Sân 3,available
+103,26,Sân 4,available
+104,27,C1,maintenance
+105,28,Sân 1,booked
+106,28,Sân 2,available
+107,28,A3,available
+108,28,C4,available
+109,29,Sân 1,available
+110,30,Sân 1,available
+111,30,D2,available
+112,30,Sân 3,booked
+113,30,C4,available
+114,30,Sân 5,maintenance
+115,30,Sân 6,booked
+116,31,C1,available
+117,32,Sân 1,available
+118,32,Sân 2,available
+119,32,Sân 3,available
+120,32,Sân 4,available
+121,33,D1,available
+122,33,Sân 2,available
+123,33,B3,available
+124,33,B4,maintenance
+125,33,A5,available
+126,34,C1,available
+127,34,Sân 2,available
+128,34,Sân 3,available
+129,35,D1,available
+130,35,Sân 2,available
+131,35,Sân 3,available
+132,35,Sân 4,maintenance
+133,35,A5,maintenance
+134,35,C6,available
+135,36,B1,available
+136,36,C2,available
+137,36,D3,maintenance
+138,36,Sân 4,available
+139,36,Sân 5,available
+140,37,Sân 1,available
+141,37,Sân 2,available
+142,37,Sân 3,booked
+143,38,Sân 1,available
+144,38,Sân 2,available
+145,38,A3,available
+146,39,D1,available
+147,39,D2,available
+148,39,B3,available
+149,39,Sân 4,available
+150,39,D5,available
+151,39,B6,booked
+152,40,Sân 1,available
+153,40,Sân 2,available
+154,41,A1,available
+155,41,Sân 2,booked
+156,41,Sân 3,booked
+157,41,C4,available
+158,41,Sân 5,available
+159,41,Sân 6,available
+160,41,Sân 7,available
+161,41,B8,booked
+162,42,Sân 1,booked
+163,42,Sân 2,maintenance
+164,42,A3,available
+165,42,Sân 4,available
+166,42,D5,booked
+167,43,Sân 1,available
+168,43,Sân 2,booked
+169,43,Sân 3,maintenance
+170,44,B1,available
+171,44,Sân 2,booked
+172,44,Sân 3,booked
+173,44,D4,available
+174,44,B5,available
+175,44,Sân 6,available
+176,45,A1,booked
+177,45,Sân 2,available
+178,45,Sân 3,booked
+179,46,Sân 1,available
+180,46,Sân 2,available
+181,46,C3,available
+182,47,Sân 1,available
+183,47,Sân 2,available
+184,47,C3,available
+185,47,D4,booked
+186,47,Sân 5,available
+187,48,C1,maintenance
+188,48,D2,maintenance
+189,48,A3,available
+190,49,A1,available
+191,49,C2,available
+192,49,Sân 3,available
+193,49,Sân 4,available
+194,49,Sân 5,available
+195,50,D1,available
+196,50,Sân 2,maintenance
+197,50,Sân 3,available
+198,50,Sân 4,available
+199,50,Sân 5,booked
+200,50,B6,available

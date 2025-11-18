@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  localstack:
+    container_name: "smashcloud_localstack"
+    image: localstack/localstack
+    ports:
+      - "4566:4566"            # Cổng mặc định của LocalStack
+    environment:
+      - SERVICES=dynamodb      # Chỉ bật dịch vụ DynamoDB cho nhẹ (hoặc để trống để bật hết)
+      - DOCKER_HOST=unix:///var/run/docker.sock
+    volumes:
+      - "./volume:/var/lib/localstack" # (Tùy chọn) Để giữ dữ liệu không bị mất khi tắt container

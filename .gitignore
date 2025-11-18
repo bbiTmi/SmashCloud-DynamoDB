@@ -1,0 +1,13 @@
+# Bỏ qua thư mục môi trường ảo (Rất quan trọng)
+venv/
+.env
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua dữ liệu LocalStack (nếu có mount volume)
+volume/
+
+# Bỏ qua file hệ thống
+.DS_Store
