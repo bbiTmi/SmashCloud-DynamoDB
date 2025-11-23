@@ -18,6 +18,8 @@ For the best support, install the following extensions in VS Code:
 ---
 
 ## Installation
+### IMPORTANT
+If do not need to run demo on LocalStack, please **UNFREEZE** the *comment out* on `init_table.py` and `import_data.py`. 
 
 ### 1. Set up the Python environment
 Open the **Terminal** in VS Code, navigate to the project directory, and run the following commands:
