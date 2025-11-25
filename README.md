@@ -49,10 +49,22 @@ docker-compose up -d
 Ensure you are inside the virtual environment (venv) and run the following commands in order:
 ```bash
 # Bước 1: Tạo bảng (Schema)
-python init_table.py
+python 1_init_table.py
 
 # Bước 2: Import dữ liệu từ CSV
-python import_data.py
+python 2_import_data.py
+```
+***Team tasks:***
+- (23/11/25): Add Username for all user
+    ~ Description: Username = *name+user_id*
+- (25/11/25): Add email for all user
+    ~ Description: Use the example email `test@example.com` 
+```bash
+# Add Username
+python 3_add_username.py
+
+# Add Email 
+python 4_add_email.py
 ```
 
 ### 4. (Optional) Visualization

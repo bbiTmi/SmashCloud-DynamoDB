@@ -13,7 +13,7 @@ dynamodb = boto3.resource(
 )
 
 # --- CẤU HÌNH KẾT NỐI VỚI AWS ---
-# Trước khi chạy đoạn dưới, lại lại lệnh "aws configure" và nhập thông tin đúng với tài khoản AWS cần dùng nhé
+# Trước khi chạy đoạn dưới, chạy lại lệnh "aws configure" và nhập thông tin đúng với tài khoản AWS cần dùng nhé
 # dynamodb = boto3.resource(
 #     'dynamodb',
 #     region_name='ap-southeast-1'
