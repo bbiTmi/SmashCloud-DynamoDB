@@ -20,7 +20,7 @@ dynamodb = boto3.resource(
 # )
 # --- ĐỊNH NGHĨA SCHEMA ---
 TABLE_SCHEMAS = {
-    'UserData': 'user_id',
+    'UserData': 'username',
     'ClubData': 'club_id',
     'CourtData': 'court_id',
     'OperationData': 'club_id',
