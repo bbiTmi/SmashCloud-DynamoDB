@@ -1,51 +1,151 @@
-club_id,club_name,club_address,club_district,open_time,close_time,num_courts,rating_counts,rating_avg,price,popularity_score
-1,Sân Cầu Lông Lạc Long Quân,"113 Đường Lạc Long Quân, Phường 9, Quận Tân Bình",Quận Tân Bình,09:00,20:00,2,17,3.12,145000,0.9313
-2,Sân Cầu Lông Tân Bình,"513 Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình",Quận Tân Bình,09:00,21:00,6,12,2.42,205000,1.4667
-3,Sân Cầu Lông An Dương Vương,"710 Đường Tô Ngọc Vân, Phường Linh Đông, TP Thủ Đức",TP Thủ Đức,10:00,22:00,17,14,3.0,200000,0.6237
-4,Sân Cầu Lông Quận 4,"940 Đường Tôn Đản, Phường 8, Quận 4",Quận 4,06:00,19:00,8,15,3.13,220000,1.2179
-5,CLB Cầu Lông Ngôi Sao Trẻ,"45 Đường Hùng Vương, Phường 12, Quận 5",Quận 5,08:00,22:00,2,24,3.08,215000,0.8652
-6,GreenLeaf Badminton,"349 Đường Lê Văn Sỹ, Phường 3, Quận Tân Bình",Quận Tân Bình,05:00,22:00,7,21,2.76,55000,0.5935
-7,CLB Cầu Lông Tân Sơn,"440 Đường Lò Gốm, Phường 8, Quận 6",Quận 6,06:00,23:00,20,21,3.0,120000,0.8824
-8,Sân Cầu Lông Hòa Bình,"853 Đường Nguyễn Văn Trỗi, Phường 17, Quận Phú Nhuận",Quận Phú Nhuận,09:00,22:00,7,25,2.88,210000,0.7701
-9,CLB Cầu Lông Lý Thái Tổ,"823 Đường Lý Thái Tổ, Phường 1, Quận 10",Quận 10,07:00,22:00,12,14,3.43,230000,0.8386
-10,Trung Tâm Cầu Lông Lê Lợi,"500 Đường Võ Văn Ngân, Phường Trường Thọ, TP Thủ Đức",TP Thủ Đức,05:00,20:00,10,22,2.82,80000,0.8368
-11,CLB Cầu Lông Hải Đăng,"366 Đường Hoàng Diệu, Phường 8, Quận 4",Quận 4,09:00,18:00,13,33,3.48,195000,2.0838
-12,Sân Cầu Lông Quận 8,"843 Đường Phạm Thế Hiển, Phường 5, Quận 8",Quận 8,05:00,18:00,4,6,2.0,175000,0.7812
-13,Locab Academy,"579 Đường Cách Mạng Tháng 8, Phường 15, Quận 10",Quận 10,05:00,19:00,16,11,2.82,110000,1.3056
-14,Trung Tâm Cầu Lông Sao Mai,"85 Đường Quốc Lộ 1A, Phường Tân Thới Hiệp, Quận 12",Quận 12,05:00,18:00,3,20,2.65,125000,0.5441
-15,Victory Badminton Hub,"217 Đường Ông Ích Khiêm, Phường 5, Quận 11",Quận 11,07:00,19:00,14,29,2.48,220000,1.4762
-16,Rainbow Badminton Center,"705 Đường Hòa Bình, Phường 3, Quận 11",Quận 11,07:00,23:00,18,12,3.92,180000,0.8929
-17,CLB Cầu Lông Ánh Dương,"801 Đường Lê Văn Việt, Phường Tân Phú, TP Thủ Đức",TP Thủ Đức,10:00,23:00,12,21,3.29,100000,0.7215
-18,CLB Cầu Lông Thủ Đức,"252 Đường Nguyễn Xiển, Phường Long Thạnh Mỹ, TP Thủ Đức",TP Thủ Đức,07:00,23:00,7,26,2.96,185000,0.7255
-19,Sky Badminton Club,"913 Đường Xa Lộ Hà Nội, Phường Tân Phú, TP Thủ Đức",TP Thủ Đức,08:00,18:00,19,20,2.75,235000,0.8258
-20,Sân Cầu Lông Bình Minh,"93 Đường Trần Hưng Đạo, Phường 2, Quận 5",Quận 5,08:00,21:00,19,9,2.67,210000,1.2594
-21,City Light Badminton,"336 Đường Dương Quảng Hàm, Phường 15, Quận Gò Vấp",Quận Gò Vấp,08:00,21:00,7,22,3.0,240000,1.0714
-22,CLB Cầu Lông Hưng Thịnh,"957 Đường Hồ Bá Kiện, Phường 15, Quận 10",Quận 10,10:00,20:00,17,6,2.67,230000,0.6759
-23,CLB Cầu Lông Phú Nhuận,"200 Đường Hòa Bình, Phường Tân Thới Hòa, Quận Tân Phú",Quận Tân Phú,09:00,22:00,5,8,2.75,235000,0.5864
-24,Diamond Shuttle Club,"66 Đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân",Quận Bình Tân,09:00,21:00,14,23,3.3,130000,1.7838
-25,TopSpin Badminton,"345 Đường Linh Đông, Phường Linh Đông, TP Thủ Đức",TP Thủ Đức,08:00,23:00,18,19,3.21,150000,0.666
-26,Sân Cầu Lông Võ Văn Kiệt,"985 Đường Phạm Hùng, Phường 5, Quận 8",Quận 8,10:00,20:00,19,20,3.4,220000,0.7359
-27,Sân Cầu Lông Phan Xích Long,"876 Đường Phan Văn Trị, Phường 12, Quận Bình Thạnh",Quận Bình Thạnh,10:00,19:00,1,4,3.0,125000,0.7519
-28,CLB Cầu Lông Cộng Hòa,"741 Đường Lê Văn Lương, Phường Tân Hưng, Quận 7",Quận 7,10:00,20:00,4,19,2.47,225000,1.4034
-29,CLB Cầu Lông Bình Tân,"9 Đường Hậu Giang, Phường 12, Quận 6",Quận 6,08:00,22:00,4,5,4.0,85000,1.81
-30,BlueBird Badminton,"90 Đường Võ Văn Ngân, Phường Bình Thọ, TP Thủ Đức",TP Thủ Đức,07:00,18:00,8,26,2.54,240000,1.1441
-31,Urban Smash Courts,"678 Đường Bà Hom, Phường 13, Quận 6",Quận 6,06:00,22:00,7,5,3.2,130000,0.8556
-32,Golden Shuttle Arena,"349 Đường Nam Hòa, Phường Phước Long A, TP Thủ Đức",TP Thủ Đức,05:00,20:00,8,24,2.46,50000,1.5871
-33,Sân Cầu Lông Bình Minh,"563 Đường Đường 339, Phường Phước Long B, TP Thủ Đức",TP Thủ Đức,09:00,21:00,6,23,3.22,190000,0.6808
-34,ProShot Badminton Club,"404 Đường Phan Đình Phùng, Phường 2, Quận Phú Nhuận",Quận Phú Nhuận,08:00,23:00,13,19,2.79,220000,1.2568
-35,CLB Cầu Lông Thiên Long,"491 Đường Lương Ngọc Quyến, Phường 13, Quận 8",Quận 8,07:00,23:00,6,29,3.03,90000,0.7749
-36,Sunrise Badminton Center,"215 Đường Cách Mạng Tháng 8, Phường 7, Quận Tân Bình",Quận Tân Bình,05:00,23:00,16,15,3.6,115000,0.7595
-37,MegaCourt Badminton,"880 Đường Nguyễn Thiện Thuật, Phường 1, Quận 3",Quận 3,09:00,19:00,16,13,3.62,125000,2.3816
-38,Sân Cầu Lông Quận 6,"671 Đường Bình Phú, Phường 10, Quận 6",Quận 6,09:00,22:00,6,10,2.2,105000,0.9402
-39,Sân Cầu Lông Nam Kỳ Khởi Nghĩa,"740 Đường Phan Chu Trinh, Phường 24, Quận Bình Thạnh",Quận Bình Thạnh,09:00,19:00,3,27,2.7,100000,0.6207
-40,Saigon Smash House,"797 Đường 3 Tháng 2, Phường 10, Quận 10",Quận 10,05:00,20:00,5,7,3.57,110000,0.8095
-41,Sân Cầu Lông Hồng Phát,"391 Đường Lạc Long Quân, Phường 9, Quận Tân Bình",Quận Tân Bình,09:00,19:00,14,31,3.16,55000,0.6384
-42,Sân Cầu Lông Quận 1,"57 Đường Phạm Văn Nghị, Phường Tân Phong, Quận 7",Quận 7,05:00,22:00,5,23,3.22,160000,0.6505
-43,CLB Cầu Lông Thành Công,"561 Đường Vườn Chuối, Phường 4, Quận 3",Quận 3,09:00,23:00,8,8,3.0,85000,0.6834
-44,Trung Tâm Cầu Lông Phú Thọ,"665 Đường Nguyễn Chí Thanh, Phường 12, Quận 5",Quận 5,07:00,19:00,12,21,3.14,80000,1.1214
-45,Sân Cầu Lông Ngọc Lan,"2 Đường Hoàng Sa, Phường 5, Quận Tân Bình",Quận Tân Bình,09:00,20:00,10,8,3.0,240000,0.6772
-46,CLB Cầu Lông Sài Gòn Xanh,"152 Đường Lý Thái Tổ, Phường 1, Quận 10",Quận 10,05:00,23:00,19,23,3.52,185000,2.1205
-47,Sân Cầu Lông Văn Thánh,"502 Đường Lê Văn Lương, Phường Tân Kiểng, Quận 7",Quận 7,08:00,22:00,20,27,2.7,185000,1.35
-48,CLB Cầu Lông Quận 11,"885 Đường Lạc Long Quân, Phường 2, Quận 11",Quận 11,09:00,20:00,12,15,2.8,145000,1.1864
-49,Sân Cầu Lông Vĩnh Lộc,"507 Đường Tạ Uyên, Phường 6, Quận 11",Quận 11,06:00,20:00,11,28,2.75,225000,0.7161
-50,Phoenix Court,"960 Đường Bình Thới, Phường 14, Quận 11",Quận 11,10:00,21:00,15,19,2.47,245000,0.5381
+club_id,club_name,club_address,club_district,open_time,close_time,num_courts,price,rating_counts,rating_avg,popularity_score
+1,Sân Cầu Lông Lạc Long Quân,"113 Đường Lạc Long Quân, Phường 9, Quận Tân Bình",Quận Tân Bình,09:00,20:00,1,130000,0,0.0,0.0
+2,Sân Cầu Lông Tân Bình,"513 Đường Hoàng Hoa Thám, Phường 13, Quận Tân Bình",Quận Tân Bình,09:00,21:00,1,100000,1,1.0,0.33
+3,Sân Cầu Lông An Dương Vương,"710 Đường Tô Ngọc Vân, Phường Linh Đông, TP Thủ Đức",TP Thủ Đức,10:00,22:00,3,100000,1,4.0,4.0
+4,Sân Cầu Lông Quận 4,"940 Đường Tôn Đản, Phường 8, Quận 4",Quận 4,06:00,19:00,8,50000,10,3.0,0.5
+5,CLB Cầu Lông Ngôi Sao Trẻ,"45 Đường Hùng Vương, Phường 12, Quận 5",Quận 5,08:00,22:00,9,90000,1,4.0,4.0
+6,GreenLeaf Badminton,"349 Đường Lê Văn Sỹ, Phường 3, Quận Tân Bình",Quận Tân Bình,05:00,22:00,1,70000,0,0.0,0.0
+7,CLB Cầu Lông Tân Sơn,"440 Đường Lò Gốm, Phường 8, Quận 6",Quận 6,06:00,23:00,6,90000,5,3.4,0.49
+8,Sân Cầu Lông Hòa Bình,"853 Đường Nguyễn Văn Trỗi, Phường 17, Quận Phú Nhuận",Quận Phú Nhuận,09:00,22:00,5,70000,3,3.0,0.46
+9,CLB Cầu Lông Lý Thái Tổ,"823 Đường Lý Thái Tổ, Phường 1, Quận 10",Quận 10,07:00,22:00,7,70000,5,3.0,0.75
+10,Trung Tâm Cầu Lông Lê Lợi,"500 Đường Võ Văn Ngân, Phường Trường Thọ, TP Thủ Đức",TP Thủ Đức,05:00,20:00,8,120000,8,3.62,0.52
+11,CLB Cầu Lông Hải Đăng,"366 Đường Hoàng Diệu, Phường 8, Quận 4",Quận 4,09:00,18:00,14,70000,7,3.0,1.5
+12,Sân Cầu Lông Quận 8,"843 Đường Phạm Thế Hiển, Phường 5, Quận 8",Quận 8,05:00,18:00,8,150000,4,2.75,1.1
+13,Locab Academy,"579 Đường Cách Mạng Tháng 8, Phường 15, Quận 10",Quận 10,05:00,19:00,13,110000,5,2.0,0.67
+14,Trung Tâm Cầu Lông Sao Mai,"85 Đường Quốc Lộ 1A, Phường Tân Thới Hiệp, Quận 12",Quận 12,05:00,18:00,3,100000,2,4.5,1.12
+15,Victory Badminton Hub,"217 Đường Ông Ích Khiêm, Phường 5, Quận 11",Quận 11,07:00,19:00,6,100000,1,1.0,1.0
+16,Rainbow Badminton Center,"705 Đường Hòa Bình, Phường 3, Quận 11",Quận 11,07:00,23:00,1,150000,2,1.5,1.5
+17,CLB Cầu Lông Ánh Dương,"801 Đường Lê Văn Việt, Phường Tân Phú, TP Thủ Đức",TP Thủ Đức,10:00,23:00,5,60000,2,4.0,0.67
+18,CLB Cầu Lông Thủ Đức,"252 Đường Nguyễn Xiển, Phường Long Thạnh Mỹ, TP Thủ Đức",TP Thủ Đức,07:00,23:00,10,70000,2,2.5,2.5
+19,Sky Badminton Club,"913 Đường Xa Lộ Hà Nội, Phường Tân Phú, TP Thủ Đức",TP Thủ Đức,08:00,18:00,5,100000,4,3.5,3.5
+20,Sân Cầu Lông Bình Minh,"93 Đường Trần Hưng Đạo, Phường 2, Quận 5",Quận 5,08:00,21:00,10,110000,6,3.83,1.92
+21,City Light Badminton,"336 Đường Dương Quảng Hàm, Phường 15, Quận Gò Vấp",Quận Gò Vấp,08:00,21:00,5,60000,12,3.08,0.77
+22,CLB Cầu Lông Hưng Thịnh,"957 Đường Hồ Bá Kiện, Phường 15, Quận 10",Quận 10,10:00,20:00,4,70000,2,1.5,1.5
+23,CLB Cầu Lông Phú Nhuận,"200 Đường Hòa Bình, Phường Tân Thới Hòa, Quận Tân Phú",Quận Tân Phú,09:00,22:00,10,110000,6,2.5,0.83
+24,Diamond Shuttle Club,"66 Đường Mã Lò, Phường Bình Trị Đông, Quận Bình Tân",Quận Bình Tân,09:00,21:00,1,100000,0,0.0,0.0
+25,TopSpin Badminton,"345 Đường Linh Đông, Phường Linh Đông, TP Thủ Đức",TP Thủ Đức,08:00,23:00,5,60000,5,5.0,2.5
+26,Sân Cầu Lông Võ Văn Kiệt,"985 Đường Phạm Hùng, Phường 5, Quận 8",Quận 8,10:00,20:00,9,130000,0,0.0,0.0
+27,Sân Cầu Lông Phan Xích Long,"876 Đường Phan Văn Trị, Phường 12, Quận Bình Thạnh",Quận Bình Thạnh,10:00,19:00,4,80000,0,0.0,0.0
+28,CLB Cầu Lông Cộng Hòa,"741 Đường Lê Văn Lương, Phường Tân Hưng, Quận 7",Quận 7,10:00,20:00,6,120000,7,2.29,2.29
+29,CLB Cầu Lông Bình Tân,"9 Đường Hậu Giang, Phường 12, Quận 6",Quận 6,08:00,22:00,7,70000,5,2.4,1.2
+30,BlueBird Badminton,"90 Đường Võ Văn Ngân, Phường Bình Thọ, TP Thủ Đức",TP Thủ Đức,07:00,18:00,5,70000,2,2.5,2.5
+31,Urban Smash Courts,"678 Đường Bà Hom, Phường 13, Quận 6",Quận 6,06:00,22:00,10,100000,10,2.6,0.24
+32,Golden Shuttle Arena,"349 Đường Nam Hòa, Phường Phước Long A, TP Thủ Đức",TP Thủ Đức,05:00,20:00,6,110000,5,2.4,0.72
+33,Sân Cầu Lông Bình Minh,"563 Đường Đường 339, Phường Phước Long B, TP Thủ Đức",TP Thủ Đức,09:00,21:00,3,80000,0,0.0,0.0
+34,ProShot Badminton Club,"404 Đường Phan Đình Phùng, Phường 2, Quận Phú Nhuận",Quận Phú Nhuận,08:00,23:00,2,120000,1,5.0,0.83
+35,CLB Cầu Lông Thiên Long,"491 Đường Lương Ngọc Quyến, Phường 13, Quận 8",Quận 8,07:00,23:00,7,70000,4,3.0,3.0
+36,Sunrise Badminton Center,"215 Đường Cách Mạng Tháng 8, Phường 7, Quận Tân Bình",Quận Tân Bình,05:00,23:00,8,110000,6,3.0,1.5
+37,MegaCourt Badminton,"880 Đường Nguyễn Thiện Thuật, Phường 1, Quận 3",Quận 3,09:00,19:00,6,130000,3,2.67,0.67
+38,Sân Cầu Lông Quận 6,"671 Đường Bình Phú, Phường 10, Quận 6",Quận 6,09:00,22:00,8,100000,5,4.0,1.0
+39,Sân Cầu Lông Nam Kỳ Khởi Nghĩa,"740 Đường Phan Chu Trinh, Phường 24, Quận Bình Thạnh",Quận Bình Thạnh,09:00,19:00,1,100000,1,2.0,2.0
+40,Saigon Smash House,"797 Đường 3 Tháng 2, Phường 10, Quận 10",Quận 10,05:00,20:00,3,60000,2,5.0,5.0
+41,Sân Cầu Lông Hồng Phát,"391 Đường Lạc Long Quân, Phường 9, Quận Tân Bình",Quận Tân Bình,09:00,19:00,8,90000,3,2.0,2.0
+42,Sân Cầu Lông Quận 1,"57 Đường Phạm Văn Nghị, Phường Tân Phong, Quận 7",Quận 7,05:00,22:00,9,80000,10,2.5,0.36
+43,CLB Cầu Lông Thành Công,"561 Đường Vườn Chuối, Phường 4, Quận 3",Quận 3,09:00,23:00,2,120000,2,2.5,0.83
+44,Trung Tâm Cầu Lông Phú Thọ,"665 Đường Nguyễn Chí Thanh, Phường 12, Quận 5",Quận 5,07:00,19:00,8,90000,3,2.0,0.5
+45,Sân Cầu Lông Ngọc Lan,"2 Đường Hoàng Sa, Phường 5, Quận Tân Bình",Quận Tân Bình,09:00,20:00,4,90000,1,4.0,4.0
+46,CLB Cầu Lông Sài Gòn Xanh,"152 Đường Lý Thái Tổ, Phường 1, Quận 10",Quận 10,05:00,23:00,2,70000,3,4.67,0.47
+47,Sân Cầu Lông Văn Thánh,"502 Đường Lê Văn Lương, Phường Tân Kiểng, Quận 7",Quận 7,08:00,22:00,6,50000,3,3.67,0.92
+48,CLB Cầu Lông Quận 11,"885 Đường Lạc Long Quân, Phường 2, Quận 11",Quận 11,09:00,20:00,6,50000,3,2.0,0.5
+49,Sân Cầu Lông Vĩnh Lộc,"507 Đường Tạ Uyên, Phường 6, Quận 11",Quận 11,06:00,20:00,8,120000,5,2.2,0.55
+50,Phoenix Court,"960 Đường Bình Thới, Phường 14, Quận 11",Quận 11,10:00,21:00,5,100000,0,0.0,0.0
+51,Royal Zone Arena,"915 Đường Lê Quang Định, Phường 5, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,07:30,20:30,10,110000,9,3.67,1.84
+52,Elite Club Arena,"847 Đường Hoàng Sa, Phường 11, Quận 3, TP.HCM",Quận 3,08:30,20:30,9,150000,5,3.8,3.8
+53,Nhà Thi Đấu Thành Công,"40 Đường Bùi Hữu Nghĩa, Phường 7, Quận 5, TP.HCM",Quận 5,08:00,20:30,5,120000,0,0.0,0.0
+54,Nhà Thi Đấu Hồng Phúc,"268 Đường Tôn Thất Hiệp, Phường 13, Quận 11, TP.HCM",Quận 11,07:00,21:00,2,90000,1,4.0,2.0
+55,Pro Shuttle House,"698 Đường Nguyễn Tất Thành, Phường 13, Quận 4, TP.HCM",Quận 4,05:30,20:30,16,110000,8,3.0,1.2
+56,Sân Cầu Lông Ngôi Sao,"560 Đường Hoàng Hoa Thám, Phường 12, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:30,23:00,6,120000,3,2.0,2.0
+57,CLB Cầu Lông Đoàn Kết,"449 Đường Hòa Hảo, Phường 5, Quận 10, TP.HCM",Quận 10,07:00,21:30,8,100000,3,2.0,2.0
+58,Nhà Thi Đấu Sức Trẻ,"89 Đường Minh Phụng, Phường 5, Quận 6, TP.HCM",Quận 6,06:00,21:30,7,90000,3,3.67,0.42
+59,Trung Tâm Cầu Lông Tiến Vinh,"347 Đường Nguyễn Văn Lạc, Phường 21, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,09:00,22:00,5,110000,4,3.75,3.75
+60,CLB Cầu Lông Hưng Phú,"526 Đường An Dương Vương, Phường 14, Quận 6, TP.HCM",Quận 6,08:00,20:30,3,90000,3,2.67,1.34
+61,Nhà Thi Đấu Tinh Anh,"638 Đường Quốc Lộ 13, Phường Hiệp Bình Phước, TP Thủ Đức, TP.HCM",TP Thủ Đức,05:00,22:00,6,100000,0,0.0,0.0
+62,Nhà Thi Đấu Minh Tâm,"106 Đường Cao Đạt, Phường 1, Quận 5, TP.HCM",Quận 5,09:00,22:00,7,80000,5,3.2,3.2
+63,Elite Feather Badminton Club,"692 Đường Vạn Kiếp, Phường 7, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,05:00,21:00,7,80000,5,3.2,1.07
+64,CLB Cầu Lông Phong Độ,"449 Đường Hoàng Diệu, Phường 8, Quận 4, TP.HCM",Quận 4,05:00,23:00,5,70000,6,3.0,3.0
+65,CLB Cầu Lông Khang An,"50 Đường Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM",Quận 10,08:00,20:00,1,110000,2,4.0,4.0
+66,Sân Thể Thao Phong Cách,"179 Đường An Dương Vương, Phường 4, Quận 5, TP.HCM",Quận 5,09:00,20:00,7,80000,5,3.2,3.2
+67,CLB Cầu Lông Tốc Độ,"719 Đường Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, TP.HCM",Quận 1,08:00,23:00,3,80000,7,3.86,1.93
+68,Nhà Thi Đấu Khang An,"771 Đường An Dương Vương, Phường 14, Quận 6, TP.HCM",Quận 6,09:00,23:00,6,60000,11,3.36,0.75
+69,CLB Cầu Lông Minh Tâm,"83 Đường Lê Văn Quới, Phường Bình Trị Đông A, Quận Bình Tân, TP.HCM",Quận Bình Tân,08:00,21:30,2,150000,3,4.0,1.33
+70,CLB Cầu Lông Phú Mỹ,"518 Đường Hoàng Văn Thụ, Phường 1, Quận Tân Bình, TP.HCM",Quận Tân Bình,05:00,22:00,11,50000,8,3.0,0.67
+71,Power Arena Arena,"986 Đường Tống Văn Trân, Phường 5, Quận 11, TP.HCM",Quận 11,09:30,23:00,16,80000,5,3.4,3.4
+72,Cụm Sân Cầu Lông Hưng Thịnh,"721 Đường Nguyễn Thị Minh Khai, Phường 1, Quận 3, TP.HCM",Quận 3,09:00,23:30,12,90000,13,3.38,0.6
+73,Trung Tâm Cầu Lông Gia Hòa,"470 Đường Trường Thọ, Phường Trường Thọ, TP Thủ Đức, TP.HCM",TP Thủ Đức,07:00,22:30,7,100000,6,4.17,1.56
+74,Sân Cầu Lông Khang An,"958 Đường Tô Ngọc Vân, Phường Tam Bình, TP Thủ Đức, TP.HCM",TP Thủ Đức,07:00,23:00,5,70000,1,1.0,1.0
+75,Prime Racket Badminton Center,"250 Đường Hùng Vương, Phường 12, Quận 5, TP.HCM",Quận 5,09:30,22:00,1,70000,0,0.0,0.0
+76,Cụm Sân Cầu Lông Chiến Thắng,"197 Đường Thích Quảng Đức, Phường 4, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,06:30,22:00,6,100000,5,3.6,1.2
+77,Cụm Sân Cầu Lông Chiến Thắng,"708 Đường Nguyễn Thái Sơn, Phường 4, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,09:00,20:30,9,50000,7,2.71,0.54
+78,Sân Thể Thao Đại Việt,"102 Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, TP Thủ Đức, TP.HCM",TP Thủ Đức,09:30,22:30,6,140000,2,4.0,4.0
+79,Cụm Sân Cầu Lông Năng Động,"659 Đường Lê Văn Việt, Phường Long Thạnh Mỹ, TP Thủ Đức, TP.HCM",TP Thủ Đức,07:30,23:00,1,120000,1,2.0,2.0
+80,Sân Thể Thao Đỉnh Cao,"308 Đường Nguyễn Văn Linh, Phường Tân Thuận Tây, Quận 7, TP.HCM",Quận 7,05:00,23:00,1,120000,0,0.0,0.0
+81,Nhà Thi Đấu Năng Động,"382 Đường Hùng Vương, Phường 2, Quận 10, TP.HCM",Quận 10,07:00,23:00,4,80000,0,0.0,0.0
+82,CLB Cầu Lông Ngôi Sao,"533 Đường Bưng Ông Thoàn, Phường Phú Hữu, TP Thủ Đức, TP.HCM",TP Thủ Đức,08:30,23:30,5,100000,3,3.0,3.0
+83,Sân Cầu Lông Tốc Độ,"136 Đường Nguyễn Thị Định, Phường Cát Lái, TP Thủ Đức, TP.HCM",TP Thủ Đức,08:00,20:30,2,120000,0,0.0,0.0
+84,Infinity Club Arena,"331 Đường Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TP.HCM",Quận 7,06:30,22:00,5,130000,1,2.0,0.4
+85,Elite Shuttle Badminton Club,"138 Đường Phạm Thế Hiển, Phường 4, Quận 8, TP.HCM",Quận 8,09:00,23:00,4,100000,1,4.0,1.0
+86,Trung Tâm Cầu Lông Phong Độ,"600 Đường Hòa Bình, Phường 3, Quận 11, TP.HCM",Quận 11,07:00,20:30,9,50000,6,3.33,1.11
+87,Cụm Sân Cầu Lông Đỉnh Cao,"244 Đường Bành Văn Trân, Phường 7, Quận Tân Bình, TP.HCM",Quận Tân Bình,05:30,23:00,2,80000,1,5.0,5.0
+88,Trung Tâm Cầu Lông Đại Việt,"969 Đường Âu Cơ, Phường 14, Quận 11, TP.HCM",Quận 11,07:00,20:30,3,70000,2,1.5,1.5
+89,Sky Feather Court,"215 Đường Trịnh Đình Trọng, Phường Phú Trung, Quận Tân Phú, TP.HCM",Quận Tân Phú,07:30,21:30,15,110000,17,3.53,0.96
+90,Cụm Sân Cầu Lông Năng Động,"926 Đường Trần Hưng Đạo, Phường Cầu Kho, Quận 1, TP.HCM",Quận 1,08:00,22:00,7,110000,9,3.22,1.07
+91,Nhà Thi Đấu Đỉnh Cao,"860 Đường Nguyễn Tri Phương, Phường 5, Quận 10, TP.HCM",Quận 10,09:30,23:00,9,70000,5,3.6,3.6
+92,Sân Cầu Lông Hưng Thịnh,"855 Đường Xa Lộ Hà Nội, Phường Hiệp Phú, TP Thủ Đức, TP.HCM",TP Thủ Đức,07:00,21:30,2,50000,2,3.5,1.75
+93,Nhà Thi Đấu Năng Động,"701 Đường Dương Bá Trạc, Phường 1, Quận 8, TP.HCM",Quận 8,06:00,21:30,2,150000,0,0.0,0.0
+94,Royal Center Arena,"131 Đường Trần Xuân Soạn, Phường Tân Hưng, Quận 7, TP.HCM",Quận 7,05:00,21:00,12,110000,9,2.89,0.58
+95,Sunrise Smash House,"749 Đường Hoàng Hoa Thám, Phường 12, Quận Tân Bình, TP.HCM",Quận Tân Bình,07:00,22:30,2,50000,1,1.0,0.25
+96,Nhà Thi Đấu Tốc Độ,"660 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,07:00,20:30,8,90000,4,1.5,0.3
+97,Cụm Sân Cầu Lông Phong Độ,"423 Đường Bà Hom, Phường 13, Quận 6, TP.HCM",Quận 6,06:30,20:00,6,80000,2,1.5,0.3
+98,Sky Racket Arena,"408 Đường Dương Bá Trạc, Phường 1, Quận 8, TP.HCM",Quận 8,05:30,22:00,10,70000,6,3.0,1.5
+99,Royal Arena Court,"948 Đường Phạm Thế Hiển, Phường 3, Quận 8, TP.HCM",Quận 8,06:30,22:30,5,130000,2,3.0,3.0
+100,Trung Tâm Cầu Lông Tuyệt Đỉnh,"212 Đường Nguyễn Thị Thập, Phường Bình Thuận, Quận 7, TP.HCM",Quận 7,05:30,22:30,1,60000,0,0.0,0.0
+101,Sân Cầu Lông Thành Công,"41 Đường Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,06:00,22:30,1,90000,1,2.0,1.0
+102,Nhà Thi Đấu Sức Trẻ,"912 Đường Trường Chinh, Phường 13, Quận Tân Bình, TP.HCM",Quận Tân Bình,09:00,21:00,13,80000,2,3.0,3.0
+103,Central Racket House,"641 Đường Thái Phiên, Phường 9, Quận 11, TP.HCM",Quận 11,05:30,21:00,9,120000,4,4.5,0.35
+104,Cụm Sân Cầu Lông Tinh Anh,"480 Đường Tỉnh Lộ 43, Phường Bình Chiểu, TP Thủ Đức, TP.HCM",TP Thủ Đức,08:30,22:30,11,100000,5,2.6,2.6
+105,CLB Cầu Lông Ngọc Bích,"650 Đường Nguyễn Chí Thanh, Phường 4, Quận 11, TP.HCM",Quận 11,05:30,22:30,10,110000,5,2.8,2.8
+106,Sân Cầu Lông Chiến Thắng,"849 Đường Nơ Trang Long, Phường 7, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,08:30,23:30,8,120000,4,2.0,0.5
+107,Cụm Sân Cầu Lông Đam Mê,"993 Đường Lê Đại Hành, Phường 13, Quận 11, TP.HCM",Quận 11,05:00,23:00,10,80000,4,2.5,0.56
+108,Green Smash Court,"756 Đường Ông Ích Khiêm, Phường 3, Quận 11, TP.HCM",Quận 11,06:30,20:00,5,130000,2,3.5,1.75
+109,Sân Thể Thao Đoàn Kết,"35 Đường Phạm Thế Hiển, Phường 5, Quận 8, TP.HCM",Quận 8,05:30,20:30,4,100000,1,4.0,4.0
+110,Sunrise Smash Badminton Center,"547 Đường Lã Xuân Oai, Phường Tăng Nhơn Phú A, TP Thủ Đức, TP.HCM",TP Thủ Đức,08:30,22:30,7,80000,0,0.0,0.0
+111,Trung Tâm Cầu Lông Khang An,"363 Đường Tô Ngọc Vân, Phường Tam Phú, TP Thủ Đức, TP.HCM",TP Thủ Đức,05:00,21:00,10,60000,4,4.25,0.53
+112,Sân Cầu Lông Phong Độ,"858 Đường Cách Mạng Tháng 8, Phường 6, Quận Tân Bình, TP.HCM",Quận Tân Bình,06:30,22:00,13,70000,15,2.87,0.82
+113,Sân Cầu Lông Thành Công,"122 Đường Phó Cơ Điều, Phường 6, Quận 11, TP.HCM",Quận 11,09:00,23:00,3,80000,0,0.0,0.0
+114,Power Feather Zone,"993 Đường Lưu Hữu Phước, Phường 15, Quận 8, TP.HCM",Quận 8,08:30,20:00,10,60000,6,3.67,3.67
+115,Green Feather Badminton Center,"642 Đường Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, TP.HCM",Quận 12,05:30,21:00,2,60000,1,3.0,0.5
+116,Nhà Thi Đấu Chiến Thắng,"476 Đường Cách Mạng Tháng 8, Phường 13, Quận 10, TP.HCM",Quận 10,09:00,23:00,7,140000,4,3.75,1.4
+117,Sân Thể Thao Năng Động,"690 Đường Sư Vạn Hạnh, Phường 12, Quận 10, TP.HCM",Quận 10,07:00,23:00,7,90000,0,0.0,0.0
+118,CLB Cầu Lông Đam Mê,"667 Đường Tân Hòa Đông, Phường 13, Quận 6, TP.HCM",Quận 6,07:30,21:30,4,120000,3,3.67,3.67
+119,Cụm Sân Cầu Lông Hưng Thịnh,"117 Đường Trần Hưng Đạo, Phường Cầu Ông Lãnh, Quận 1, TP.HCM",Quận 1,05:30,23:30,5,100000,11,3.18,0.67
+120,Sân Cầu Lông Tốc Độ,"186 Đường Nguyễn Duy Trinh, Phường Long Trường, TP Thủ Đức, TP.HCM",TP Thủ Đức,06:00,20:30,10,100000,5,3.2,0.8
+121,Trung Tâm Cầu Lông Hồng Phúc,"366 Đường Nguyễn Hữu Cảnh, Phường 19, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,09:00,20:00,6,100000,6,2.67,1.34
+122,Green Shuttle Badminton Center,"305 Đường Nguyễn Duy Dương, Phường 4, Quận 10, TP.HCM",Quận 10,05:00,20:00,4,70000,2,4.5,4.5
+123,Golden Center Arena,"829 Đường Đường số 51, Phường 14, Quận Gò Vấp, TP.HCM",Quận Gò Vấp,08:30,22:30,2,90000,3,2.67,2.67
+124,Royal Feather Badminton Club,"953 Đường Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7, TP.HCM",Quận 7,08:30,21:30,4,60000,3,2.33,1.16
+125,Green Smash Court,"814 Đường Nguyễn Văn Linh, Phường Bình Thuận, Quận 7, TP.HCM",Quận 7,07:00,22:00,7,150000,0,0.0,0.0
+126,Trung Tâm Cầu Lông Phong Cách,"336 Đường Tam Bình, Phường Tam Phú, TP Thủ Đức, TP.HCM",TP Thủ Đức,08:30,20:00,4,80000,1,3.0,3.0
+127,CLB Cầu Lông Đoàn Kết,"700 Đường Bến Bình Đông, Phường 10, Quận 8, TP.HCM",Quận 8,06:00,20:30,4,60000,4,3.0,0.9
+128,Sân Cầu Lông Tuyệt Đỉnh,"48 Đường Tô Ngọc Vân, Phường Thạnh Xuân, Quận 12, TP.HCM",Quận 12,07:30,20:00,10,110000,16,3.44,1.15
+129,Nhà Thi Đấu Bứt Phá,"39 Đường Đường D1 (Nguyễn Văn Thương), Phường 25, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,09:00,23:30,10,90000,12,3.25,0.81
+130,Sân Thể Thao Thành Công,"733 Đường Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TP.HCM",Quận 7,08:00,23:00,2,50000,1,5.0,5.0
+131,Trung Tâm Cầu Lông Bứt Phá,"853 Đường Sư Vạn Hạnh, Phường 13, Quận 10, TP.HCM",Quận 10,05:00,21:00,3,120000,0,0.0,0.0
+132,Royal Shuttle House,"733 Đường Phạm Văn Đồng, Phường Hiệp Bình Chánh, TP Thủ Đức, TP.HCM",TP Thủ Đức,09:30,20:00,7,50000,4,4.25,2.12
+133,Prime Shuttle Zone,"163 Đường Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, TP.HCM",Quận 7,07:30,20:30,12,110000,4,3.0,3.0
+134,Sân Cầu Lông Phong Cách,"143 Đường Tân Kỳ Tân Quý, Phường Bình Hưng Hòa, Quận Bình Tân, TP.HCM",Quận Bình Tân,05:00,23:30,5,90000,4,3.75,0.94
+135,Cụm Sân Cầu Lông Tinh Anh,"456 Đường An Bình, Phường 6, Quận 5, TP.HCM",Quận 5,07:00,20:30,2,100000,0,0.0,0.0
+136,Trung Tâm Cầu Lông Bứt Phá,"996 Đường Tô Hiến Thành, Phường 14, Quận 10, TP.HCM",Quận 10,07:00,23:00,3,70000,1,5.0,5.0
+137,Central Zone House,"322 Đường Vĩnh Khánh, Phường 8, Quận 4, TP.HCM",Quận 4,07:00,20:30,7,120000,4,2.75,0.69
+138,CLB Cầu Lông Gia Hòa,"328 Đường Gò Dưa, Phường Tam Bình, TP Thủ Đức, TP.HCM",TP Thủ Đức,07:00,22:30,5,120000,3,4.0,4.0
+139,Galaxy Smash House,"836 Đường Ung Văn Khiêm, Phường 25, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,08:30,23:30,7,120000,10,2.6,2.6
+140,Sky Center Court,"657 Đường Nguyễn Tiểu La, Phường 5, Quận 10, TP.HCM",Quận 10,09:00,22:00,8,100000,3,3.67,3.67
+141,Cụm Sân Cầu Lông Phong Cách,"268 Đường Quốc Lộ 1A, Phường Tân Thới Hiệp, Quận 12, TP.HCM",Quận 12,05:30,20:00,10,110000,9,3.67,0.92
+142,Sân Thể Thao Đoàn Kết,"487 Đường Đường số 5, Phường Linh Xuân, TP Thủ Đức, TP.HCM",TP Thủ Đức,05:00,20:30,4,100000,2,5.0,1.25
+143,CLB Cầu Lông Tiến Vinh,"559 Đường Ba Tháng Hai, Phường 6, Quận 11, TP.HCM",Quận 11,08:00,22:30,6,110000,2,3.5,3.5
+144,Royal Court Badminton Club,"979 Đường Lê Hồng Phong, Phường 4, Quận 5, TP.HCM",Quận 5,08:00,21:00,3,90000,3,2.67,0.89
+145,Sunrise Zone Badminton Center,"936 Đường Tân Kỳ Tân Quý, Phường Bình Hưng Hòa, Quận Bình Tân, TP.HCM",Quận Bình Tân,08:00,21:00,10,60000,11,3.09,0.56
+146,Cụm Sân Cầu Lông Sức Trẻ,"479 Đường Huỳnh Văn Bánh, Phường 13, Quận Phú Nhuận, TP.HCM",Quận Phú Nhuận,08:30,20:00,5,130000,4,4.0,4.0
+147,CLB Cầu Lông Hưng Phú,"301 Đường Nguyễn Lâm, Phường 3, Quận Bình Thạnh, TP.HCM",Quận Bình Thạnh,08:30,23:30,3,50000,4,3.25,0.65
+148,Cụm Sân Cầu Lông Gia Hòa,"720 Đường Phạm Thế Hiển, Phường 4, Quận 8, TP.HCM",Quận 8,07:30,21:00,8,100000,3,3.33,0.42
+149,Sân Cầu Lông Khang An,"405 Đường Cách Mạng Tháng 8, Phường 5, Quận Tân Bình, TP.HCM",Quận Tân Bình,06:30,22:00,1,110000,1,2.0,2.0
+150,Prime Feather Zone,"468 Đường Nguyễn Đình Chiểu, Phường 2, Quận 3, TP.HCM",Quận 3,09:00,21:30,3,60000,1,4.0,4.0

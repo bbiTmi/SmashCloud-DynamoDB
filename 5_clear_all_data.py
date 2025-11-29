@@ -2,20 +2,20 @@ import boto3
 from botocore.exceptions import ClientError
 
 # # --- CẤU HÌNH KẾT NỐI VỚI LOCALSTACK ---
-# dynamodb = boto3.resource(
-#     'dynamodb',
-#     endpoint_url='http://localhost:4566',
-#     region_name='us-east-1',
-#     aws_access_key_id='test',
-#     aws_secret_access_key='test'
-# )
+dynamodb = boto3.resource(
+    'dynamodb',
+    endpoint_url='http://localhost:4566',
+    region_name='us-east-1',
+    aws_access_key_id='test',
+    aws_secret_access_key='test'
+)
 
 # --- CẤU HÌNH KẾT NỐI VỚI AWS ---
 # Trước khi chạy đoạn dưới, chạy lại lệnh "aws configure" và nhập thông tin đúng với tài khoản AWS cần dùng nhé
-dynamodb = boto3.resource(
-    'dynamodb',
-    region_name='ap-southeast-1'
-)
+# dynamodb = boto3.resource(
+#     'dynamodb',
+#     region_name='ap-southeast-1'
+# )
 
 # --- ĐỊNH NGHĨA BẢNG VÀ PRIMARY KEY ---
 TABLE_SCHEMAS = {

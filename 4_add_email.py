@@ -1,10 +1,19 @@
 import boto3
 
 # --- CẤU HÌNH KẾT NỐI DYNAMODB ---
+# dynamodb = boto3.resource(
+#     'dynamodb',  
+#     region_name='ap-southeast-1'
+# )
+
 dynamodb = boto3.resource(
-    'dynamodb',  
-    region_name='ap-southeast-1'
+    'dynamodb',
+    endpoint_url='http://localhost:4566',
+    region_name='us-east-1',
+    aws_access_key_id='test',
+    aws_secret_access_key='test'
 )
+
 DEFAULT_EMAIL = "test@example.com"
 
 def add_email_to_all_users():
